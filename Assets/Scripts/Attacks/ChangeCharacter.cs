@@ -25,9 +25,6 @@ public class ChangeCharacter : MonoBehaviour
     {
         active = choice;
 
-        foreach (GameObject p in controllables) p.GetComponent<PlayerInputController>().enabled = false;
-        foreach (GameObject p in controllables) p.SetActive(false);
-        player.SetActive(true);
         spirit.GetComponent<TrailRenderer>().Clear();
 
         if (start == false)
@@ -36,8 +33,18 @@ public class ChangeCharacter : MonoBehaviour
             spirit.transform.position = new Vector2(player.transform.position.x, player.transform.position.y);
         }
 
-        controllables[choice].SetActive(true);
-        controllables[choice].GetComponent<PlayerInputController>().enabled = true;
+        if (choice == 0)
+        {
+            spirit.SetActive(false);
+            spirit.GetComponent<PlayerInputController>().enabled = false;
+            player.GetComponent<PlayerInputController>().enabled = true;
+        }
+        if (choice == 1)
+        {
+            spirit.SetActive(true);
+            spirit.GetComponent<PlayerInputController>().enabled = true;
+            player.GetComponent<PlayerInputController>().enabled = false;
+        }
     }
 
     private void Start()
