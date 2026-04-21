@@ -2406,7 +2406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneController
   currentSceneIndex: 1
   GameOverScene: 
-  MainMenuSceneName: 
+  MainMenuSceneName: MainMenu
 --- !u!4 &1682590966
 Transform:
   m_ObjectHideFlags: 0
