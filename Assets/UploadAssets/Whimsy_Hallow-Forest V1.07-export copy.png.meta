@@ -1,0 +1,5887 @@
+fileFormatVersion: 2
+guid: 4f55b6a05490baa42b9be21ea796df91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6361520086216989406
+    second: Whimsy_Hallow-Forest V1.07-export copy_0
+  - first:
+      213: -1048510185898899340
+    second: Whimsy_Hallow-Forest V1.07-export copy_1
+  - first:
+      213: -4500805707207565466
+    second: Whimsy_Hallow-Forest V1.07-export copy_2
+  - first:
+      213: -4081003742739945470
+    second: Whimsy_Hallow-Forest V1.07-export copy_3
+  - first:
+      213: -4196829941298360851
+    second: Whimsy_Hallow-Forest V1.07-export copy_4
+  - first:
+      213: -2210763258870898784
+    second: Whimsy_Hallow-Forest V1.07-export copy_5
+  - first:
+      213: 2221073151519304083
+    second: Whimsy_Hallow-Forest V1.07-export copy_6
+  - first:
+      213: -608035324513283982
+    second: Whimsy_Hallow-Forest V1.07-export copy_7
+  - first:
+      213: -288983439013826969
+    second: Whimsy_Hallow-Forest V1.07-export copy_8
+  - first:
+      213: -7979441030367971618
+    second: Whimsy_Hallow-Forest V1.07-export copy_9
+  - first:
+      213: 3247588784077877572
+    second: Whimsy_Hallow-Forest V1.07-export copy_10
+  - first:
+      213: -5583670975482575491
+    second: Whimsy_Hallow-Forest V1.07-export copy_11
+  - first:
+      213: -8460382357740927899
+    second: Whimsy_Hallow-Forest V1.07-export copy_12
+  - first:
+      213: 7780208264494678078
+    second: Whimsy_Hallow-Forest V1.07-export copy_13
+  - first:
+      213: 4267812349152909204
+    second: Whimsy_Hallow-Forest V1.07-export copy_14
+  - first:
+      213: -8397460676672705680
+    second: Whimsy_Hallow-Forest V1.07-export copy_15
+  - first:
+      213: -3345123515026144423
+    second: Whimsy_Hallow-Forest V1.07-export copy_16
+  - first:
+      213: -306601827362186617
+    second: Whimsy_Hallow-Forest V1.07-export copy_17
+  - first:
+      213: 5585805933176855721
+    second: Whimsy_Hallow-Forest V1.07-export copy_18
+  - first:
+      213: -4043953468003597009
+    second: Whimsy_Hallow-Forest V1.07-export copy_19
+  - first:
+      213: 3466978095946457886
+    second: Whimsy_Hallow-Forest V1.07-export copy_20
+  - first:
+      213: -9194903485713896693
+    second: Whimsy_Hallow-Forest V1.07-export copy_21
+  - first:
+      213: -4228355705902469503
+    second: Whimsy_Hallow-Forest V1.07-export copy_22
+  - first:
+      213: 1401175959485499262
+    second: Whimsy_Hallow-Forest V1.07-export copy_23
+  - first:
+      213: -9128879334506125489
+    second: Whimsy_Hallow-Forest V1.07-export copy_24
+  - first:
+      213: -4672071779826902659
+    second: Whimsy_Hallow-Forest V1.07-export copy_25
+  - first:
+      213: -8009289960989458410
+    second: Whimsy_Hallow-Forest V1.07-export copy_26
+  - first:
+      213: -2923566346253749259
+    second: Whimsy_Hallow-Forest V1.07-export copy_27
+  - first:
+      213: -6114407052469749920
+    second: Whimsy_Hallow-Forest V1.07-export copy_28
+  - first:
+      213: 182654941004968501
+    second: Whimsy_Hallow-Forest V1.07-export copy_29
+  - first:
+      213: 4438364800370568824
+    second: Whimsy_Hallow-Forest V1.07-export copy_30
+  - first:
+      213: 5489337629428104063
+    second: Whimsy_Hallow-Forest V1.07-export copy_31
+  - first:
+      213: -5182074710513816763
+    second: Whimsy_Hallow-Forest V1.07-export copy_32
+  - first:
+      213: 8488509262931559687
+    second: Whimsy_Hallow-Forest V1.07-export copy_33
+  - first:
+      213: -3148883794830847022
+    second: Whimsy_Hallow-Forest V1.07-export copy_34
+  - first:
+      213: 4297573741270893286
+    second: Whimsy_Hallow-Forest V1.07-export copy_35
+  - first:
+      213: -6393157161531016769
+    second: Whimsy_Hallow-Forest V1.07-export copy_36
+  - first:
+      213: -1682200398599082748
+    second: Whimsy_Hallow-Forest V1.07-export copy_37
+  - first:
+      213: 7178625398163783584
+    second: Whimsy_Hallow-Forest V1.07-export copy_38
+  - first:
+      213: -9109242019412400952
+    second: Whimsy_Hallow-Forest V1.07-export copy_39
+  - first:
+      213: 6026568860798333568
+    second: Whimsy_Hallow-Forest V1.07-export copy_40
+  - first:
+      213: -5237567241717148917
+    second: Whimsy_Hallow-Forest V1.07-export copy_41
+  - first:
+      213: -2405514308013939937
+    second: Whimsy_Hallow-Forest V1.07-export copy_42
+  - first:
+      213: -867286419513370518
+    second: Whimsy_Hallow-Forest V1.07-export copy_43
+  - first:
+      213: -8184786585541845384
+    second: Whimsy_Hallow-Forest V1.07-export copy_44
+  - first:
+      213: -4389873839028083677
+    second: Whimsy_Hallow-Forest V1.07-export copy_45
+  - first:
+      213: -7284213099804096939
+    second: Whimsy_Hallow-Forest V1.07-export copy_46
+  - first:
+      213: 2997346610632527898
+    second: Whimsy_Hallow-Forest V1.07-export copy_47
+  - first:
+      213: -1478045652241888194
+    second: Whimsy_Hallow-Forest V1.07-export copy_48
+  - first:
+      213: -4079937660622650238
+    second: Whimsy_Hallow-Forest V1.07-export copy_49
+  - first:
+      213: -8641499276714556544
+    second: Whimsy_Hallow-Forest V1.07-export copy_50
+  - first:
+      213: -8560211519203614101
+    second: Whimsy_Hallow-Forest V1.07-export copy_51
+  - first:
+      213: -2351513830114222444
+    second: Whimsy_Hallow-Forest V1.07-export copy_52
+  - first:
+      213: 7858991412498363498
+    second: Whimsy_Hallow-Forest V1.07-export copy_53
+  - first:
+      213: -2451909974982423947
+    second: Whimsy_Hallow-Forest V1.07-export copy_54
+  - first:
+      213: -30273739260179986
+    second: Whimsy_Hallow-Forest V1.07-export copy_55
+  - first:
+      213: 3196382198531841145
+    second: Whimsy_Hallow-Forest V1.07-export copy_56
+  - first:
+      213: -3557713744594992092
+    second: Whimsy_Hallow-Forest V1.07-export copy_57
+  - first:
+      213: 1082567097131821862
+    second: Whimsy_Hallow-Forest V1.07-export copy_58
+  - first:
+      213: 4946160798838125940
+    second: Whimsy_Hallow-Forest V1.07-export copy_59
+  - first:
+      213: 3332450242108762464
+    second: Whimsy_Hallow-Forest V1.07-export copy_60
+  - first:
+      213: -787054129724044652
+    second: Whimsy_Hallow-Forest V1.07-export copy_61
+  - first:
+      213: -3405157758087465602
+    second: Whimsy_Hallow-Forest V1.07-export copy_62
+  - first:
+      213: 7402776236918512414
+    second: Whimsy_Hallow-Forest V1.07-export copy_63
+  - first:
+      213: -4254205703865942090
+    second: Whimsy_Hallow-Forest V1.07-export copy_64
+  - first:
+      213: -3223125357297908833
+    second: Whimsy_Hallow-Forest V1.07-export copy_65
+  - first:
+      213: -7159963169077591645
+    second: Whimsy_Hallow-Forest V1.07-export copy_66
+  - first:
+      213: -5415312074047568382
+    second: Whimsy_Hallow-Forest V1.07-export copy_67
+  - first:
+      213: -6555335696276335204
+    second: Whimsy_Hallow-Forest V1.07-export copy_68
+  - first:
+      213: 7618936354603080054
+    second: Whimsy_Hallow-Forest V1.07-export copy_69
+  - first:
+      213: -3431974946009939448
+    second: Whimsy_Hallow-Forest V1.07-export copy_70
+  - first:
+      213: -7640329622693277606
+    second: Whimsy_Hallow-Forest V1.07-export copy_71
+  - first:
+      213: 2969253456469553718
+    second: Whimsy_Hallow-Forest V1.07-export copy_72
+  - first:
+      213: 4995603641022164696
+    second: Whimsy_Hallow-Forest V1.07-export copy_73
+  - first:
+      213: -9060140627160392553
+    second: Whimsy_Hallow-Forest V1.07-export copy_74
+  - first:
+      213: -2672517119644050303
+    second: Whimsy_Hallow-Forest V1.07-export copy_75
+  - first:
+      213: -5606142078893196111
+    second: Whimsy_Hallow-Forest V1.07-export copy_76
+  - first:
+      213: 8362398338755253701
+    second: Whimsy_Hallow-Forest V1.07-export copy_77
+  - first:
+      213: 6566176544090438133
+    second: Whimsy_Hallow-Forest V1.07-export copy_78
+  - first:
+      213: -8441782876794218572
+    second: Whimsy_Hallow-Forest V1.07-export copy_79
+  - first:
+      213: -2442446372030992682
+    second: Whimsy_Hallow-Forest V1.07-export copy_80
+  - first:
+      213: -6052200791998374994
+    second: Whimsy_Hallow-Forest V1.07-export copy_81
+  - first:
+      213: -7660363348282036335
+    second: Whimsy_Hallow-Forest V1.07-export copy_82
+  - first:
+      213: -5960805918674606383
+    second: Whimsy_Hallow-Forest V1.07-export copy_83
+  - first:
+      213: 7414648526422813052
+    second: Whimsy_Hallow-Forest V1.07-export copy_84
+  - first:
+      213: -1882605492296092473
+    second: Whimsy_Hallow-Forest V1.07-export copy_85
+  - first:
+      213: 7377541308084922627
+    second: Whimsy_Hallow-Forest V1.07-export copy_86
+  - first:
+      213: -383094353594110255
+    second: Whimsy_Hallow-Forest V1.07-export copy_87
+  - first:
+      213: 6211812477038921299
+    second: Whimsy_Hallow-Forest V1.07-export copy_88
+  - first:
+      213: 63952287513348162
+    second: Whimsy_Hallow-Forest V1.07-export copy_89
+  - first:
+      213: -1776353614287826742
+    second: Whimsy_Hallow-Forest V1.07-export copy_90
+  - first:
+      213: 9114452772971626428
+    second: Whimsy_Hallow-Forest V1.07-export copy_91
+  - first:
+      213: 567320408417425718
+    second: Whimsy_Hallow-Forest V1.07-export copy_92
+  - first:
+      213: -5419519306989084850
+    second: Whimsy_Hallow-Forest V1.07-export copy_93
+  - first:
+      213: 5050808410717886377
+    second: Whimsy_Hallow-Forest V1.07-export copy_94
+  - first:
+      213: -6437716459450001891
+    second: Whimsy_Hallow-Forest V1.07-export copy_95
+  - first:
+      213: -3751686306215206875
+    second: Whimsy_Hallow-Forest V1.07-export copy_96
+  - first:
+      213: -2590818829004554938
+    second: Whimsy_Hallow-Forest V1.07-export copy_97
+  - first:
+      213: 8899420463890571528
+    second: Whimsy_Hallow-Forest V1.07-export copy_98
+  - first:
+      213: 2242189327926421183
+    second: Whimsy_Hallow-Forest V1.07-export copy_99
+  - first:
+      213: 5954504752812890386
+    second: Whimsy_Hallow-Forest V1.07-export copy_100
+  - first:
+      213: -1005707407680952746
+    second: Whimsy_Hallow-Forest V1.07-export copy_101
+  - first:
+      213: 1149994530267639227
+    second: Whimsy_Hallow-Forest V1.07-export copy_102
+  - first:
+      213: 6596230088875659407
+    second: Whimsy_Hallow-Forest V1.07-export copy_103
+  - first:
+      213: -6331922268366511978
+    second: Whimsy_Hallow-Forest V1.07-export copy_104
+  - first:
+      213: 970006503506049695
+    second: Whimsy_Hallow-Forest V1.07-export copy_105
+  - first:
+      213: -6987028308435266609
+    second: Whimsy_Hallow-Forest V1.07-export copy_106
+  - first:
+      213: -6631665268065221167
+    second: Whimsy_Hallow-Forest V1.07-export copy_107
+  - first:
+      213: -1308381749502132081
+    second: Whimsy_Hallow-Forest V1.07-export copy_108
+  - first:
+      213: 9220306558212655778
+    second: Whimsy_Hallow-Forest V1.07-export copy_109
+  - first:
+      213: -6162787141374392228
+    second: Whimsy_Hallow-Forest V1.07-export copy_110
+  - first:
+      213: 6327361412732311113
+    second: Whimsy_Hallow-Forest V1.07-export copy_111
+  - first:
+      213: -4179628376011812941
+    second: Whimsy_Hallow-Forest V1.07-export copy_112
+  - first:
+      213: 9025593538652944211
+    second: Whimsy_Hallow-Forest V1.07-export copy_113
+  - first:
+      213: -9177376569689469842
+    second: Whimsy_Hallow-Forest V1.07-export copy_114
+  - first:
+      213: -6520087906778687062
+    second: Whimsy_Hallow-Forest V1.07-export copy_115
+  - first:
+      213: 2946877813288051081
+    second: Whimsy_Hallow-Forest V1.07-export copy_116
+  - first:
+      213: -6783401814370105432
+    second: Whimsy_Hallow-Forest V1.07-export copy_117
+  - first:
+      213: 2856523196255137616
+    second: Whimsy_Hallow-Forest V1.07-export copy_118
+  - first:
+      213: 8572494080078756262
+    second: Whimsy_Hallow-Forest V1.07-export copy_119
+  - first:
+      213: 1487253666418264695
+    second: Whimsy_Hallow-Forest V1.07-export copy_120
+  - first:
+      213: -2598188217067159477
+    second: Whimsy_Hallow-Forest V1.07-export copy_121
+  - first:
+      213: 4894754929872058796
+    second: Whimsy_Hallow-Forest V1.07-export copy_122
+  - first:
+      213: -7415549759663042623
+    second: Whimsy_Hallow-Forest V1.07-export copy_123
+  - first:
+      213: -8414626180246078973
+    second: Whimsy_Hallow-Forest V1.07-export copy_124
+  - first:
+      213: 9133805346411793307
+    second: Whimsy_Hallow-Forest V1.07-export copy_125
+  - first:
+      213: -8693512711048951996
+    second: Whimsy_Hallow-Forest V1.07-export copy_126
+  - first:
+      213: 2706100889544287779
+    second: Whimsy_Hallow-Forest V1.07-export copy_127
+  - first:
+      213: 6080253013461238027
+    second: Whimsy_Hallow-Forest V1.07-export copy_128
+  - first:
+      213: 9195519874431627011
+    second: Whimsy_Hallow-Forest V1.07-export copy_129
+  - first:
+      213: 7792065181903884100
+    second: Whimsy_Hallow-Forest V1.07-export copy_130
+  - first:
+      213: 6619602960032303835
+    second: Whimsy_Hallow-Forest V1.07-export copy_131
+  - first:
+      213: -8775954178203333486
+    second: Whimsy_Hallow-Forest V1.07-export copy_132
+  - first:
+      213: -7896955140926273010
+    second: Whimsy_Hallow-Forest V1.07-export copy_133
+  - first:
+      213: -1695225007843618424
+    second: Whimsy_Hallow-Forest V1.07-export copy_134
+  - first:
+      213: 242843675381553180
+    second: Whimsy_Hallow-Forest V1.07-export copy_135
+  - first:
+      213: 6916824972525356521
+    second: Whimsy_Hallow-Forest V1.07-export copy_136
+  - first:
+      213: -8258867271224853197
+    second: Whimsy_Hallow-Forest V1.07-export copy_137
+  - first:
+      213: 4128709044008208810
+    second: Whimsy_Hallow-Forest V1.07-export copy_138
+  - first:
+      213: -4088965386681715516
+    second: Whimsy_Hallow-Forest V1.07-export copy_139
+  - first:
+      213: 2181430663143275201
+    second: Whimsy_Hallow-Forest V1.07-export copy_140
+  - first:
+      213: 8571487259405081745
+    second: Whimsy_Hallow-Forest V1.07-export copy_141
+  - first:
+      213: 464433347691328986
+    second: Whimsy_Hallow-Forest V1.07-export copy_142
+  - first:
+      213: -3017576945143616149
+    second: Whimsy_Hallow-Forest V1.07-export copy_143
+  - first:
+      213: 4311187199748710090
+    second: Whimsy_Hallow-Forest V1.07-export copy_144
+  - first:
+      213: -7271355808741109648
+    second: Whimsy_Hallow-Forest V1.07-export copy_145
+  - first:
+      213: 8707780401512317129
+    second: Whimsy_Hallow-Forest V1.07-export copy_146
+  - first:
+      213: 4715841077830240866
+    second: Whimsy_Hallow-Forest V1.07-export copy_147
+  - first:
+      213: 4178341935420621649
+    second: Whimsy_Hallow-Forest V1.07-export copy_148
+  - first:
+      213: 3202638607861701860
+    second: Whimsy_Hallow-Forest V1.07-export copy_149
+  - first:
+      213: 1433906275675124337
+    second: Whimsy_Hallow-Forest V1.07-export copy_150
+  - first:
+      213: 2061213695496346808
+    second: Whimsy_Hallow-Forest V1.07-export copy_151
+  - first:
+      213: 7830521048601846202
+    second: Whimsy_Hallow-Forest V1.07-export copy_152
+  - first:
+      213: -3808731693833728221
+    second: Whimsy_Hallow-Forest V1.07-export copy_153
+  - first:
+      213: 5426284470654719871
+    second: Whimsy_Hallow-Forest V1.07-export copy_154
+  - first:
+      213: -1267595672309299856
+    second: Whimsy_Hallow-Forest V1.07-export copy_155
+  - first:
+      213: 3974330607776364287
+    second: Whimsy_Hallow-Forest V1.07-export copy_156
+  - first:
+      213: -2546689544400149300
+    second: Whimsy_Hallow-Forest V1.07-export copy_157
+  - first:
+      213: 1602702682468885658
+    second: Whimsy_Hallow-Forest V1.07-export copy_158
+  - first:
+      213: 5752366864441129170
+    second: Whimsy_Hallow-Forest V1.07-export copy_159
+  - first:
+      213: -2044727357146749022
+    second: Whimsy_Hallow-Forest V1.07-export copy_160
+  - first:
+      213: 3857759584547395669
+    second: Whimsy_Hallow-Forest V1.07-export copy_161
+  - first:
+      213: 3824416241306023855
+    second: Whimsy_Hallow-Forest V1.07-export copy_162
+  - first:
+      213: -8784174695687774251
+    second: Whimsy_Hallow-Forest V1.07-export copy_163
+  - first:
+      213: 1030778444976432427
+    second: Whimsy_Hallow-Forest V1.07-export copy_164
+  - first:
+      213: 2077336221658538908
+    second: Whimsy_Hallow-Forest V1.07-export copy_165
+  - first:
+      213: 7236727369960661421
+    second: Whimsy_Hallow-Forest V1.07-export copy_166
+  - first:
+      213: 8132420274943488272
+    second: Whimsy_Hallow-Forest V1.07-export copy_167
+  - first:
+      213: 483679925069413370
+    second: Whimsy_Hallow-Forest V1.07-export copy_168
+  - first:
+      213: -3993119605784345158
+    second: Whimsy_Hallow-Forest V1.07-export copy_169
+  - first:
+      213: -4133252996653117802
+    second: Whimsy_Hallow-Forest V1.07-export copy_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 591
+        width: 224
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad97a40d8a84850800000000000000
+      internalID: 6361520086216989406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 487
+        width: 165
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780e1a8a81f271f0800000000000000
+      internalID: -1048510185898899340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 487
+        width: 194
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f97da3e0de981c0800000000000000
+      internalID: -4500805707207565466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 487
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20822f2d7bc5d57c0800000000000000
+      internalID: -4081003742739945470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 486
+        width: 194
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0036776dd1c5c0800000000000000
+      internalID: -4196829941298360851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd388778ac151e0800000000000000
+      internalID: -2210763258870898784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 415
+        width: 163
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39927787346d2de10800000000000000
+      internalID: 2221073151519304083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 415
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2701f770813df87f0800000000000000
+      internalID: -608035324513283982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e2c93e7135dfbf0800000000000000
+      internalID: -288983439013826969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed67db6e8a4534190800000000000000
+      internalID: -7979441030367971618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 367
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441318beac0c11d20800000000000000
+      internalID: 3247588784077877572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 367
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c3b3d4d0d282b0800000000000000
+      internalID: -5583670975482575491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 375
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564ced6121fa69a80800000000000000
+      internalID: -8460382357740927899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 375
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3083cbf13ad8fb60800000000000000
+      internalID: 7780208264494678078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 375
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d84f38b05a3b30800000000000000
+      internalID: 4267812349152909204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 375
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bac97910a367b80800000000000000
+      internalID: -8397460676672705680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 375
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9538f05e2ebb391d0800000000000000
+      internalID: -3345123515026144423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 375
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5790334bbebbf0800000000000000
+      internalID: -306601827362186617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 391
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac964fb6e4c48d40800000000000000
+      internalID: 5585805933176855721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 343
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25cf632fbdf0e7c0800000000000000
+      internalID: -4043953468003597009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_20
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 343
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e2fc953e2d1030800000000000000
+      internalID: 3466978095946457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba5061ff3256080800000000000000
+      internalID: -9194903485713896693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eefa563ecd155c0800000000000000
+      internalID: -4228355705902469503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 335
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7743f48c1af17310800000000000000
+      internalID: 1401175959485499262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 335
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ab55bc94bf4180800000000000000
+      internalID: -9128879334506125489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 335
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795a4e4877792fb0800000000000000
+      internalID: -4672071779826902659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_26
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 343
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6100f1c273949d090800000000000000
+      internalID: -8009289960989458410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_27
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 343
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f33246d5e76d67d0800000000000000
+      internalID: -2923566346253749259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 343
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b5696e23452ba0800000000000000
+      internalID: -6114407052469749920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 343
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532321b73bbe88200800000000000000
+      internalID: 182654941004968501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 343
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e6fad354d389d30800000000000000
+      internalID: 4438364800370568824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 343
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b3f3e7d7b0e2c40800000000000000
+      internalID: 5489337629428104063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54be940b1829518b0800000000000000
+      internalID: -5182074710513816763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 215
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70506a9533e3dc570800000000000000
+      internalID: 8488509262931559687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_34
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 215
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39f124fdaec44d0800000000000000
+      internalID: -3148883794830847022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28f745c8c04ab30800000000000000
+      internalID: 4297573741270893286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 215
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f2b91f61f647a0800000000000000
+      internalID: -6393157161531016769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 215
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d2b7076af97a8e0800000000000000
+      internalID: -1682200398599082748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_38
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 215
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af362104c99f9360800000000000000
+      internalID: 7178625398163783584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 215
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4acdb65a8759180800000000000000
+      internalID: -9109242019412400952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_40
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 215
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082b052e27ca2a350800000000000000
+      internalID: 6026568860798333568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b031a3ee75c6057b0800000000000000
+      internalID: -5237567241717148917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a5b85b75ed9ed0800000000000000
+      internalID: -2405514308013939937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 127
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a689266b897c6f3f0800000000000000
+      internalID: -867286419513370518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_44
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 175
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e556e17fbc96e80800000000000000
+      internalID: -8184786585541845384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32463ff70090413c0800000000000000
+      internalID: -4389873839028083677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560ee577c649ea90800000000000000
+      internalID: -7284213099804096939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 159
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10197b9cd6b89920800000000000000
+      internalID: 2997346610632527898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 159
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ccf407f4dec7be0800000000000000
+      internalID: -1478045652241888194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 159
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28449d860562167c0800000000000000
+      internalID: -4079937660622650238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_50
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 159
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08342a4413a331880800000000000000
+      internalID: -8641499276714556544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 159
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6269ab2af4043980800000000000000
+      internalID: -8560211519203614101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_52
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 119
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9f9f51aebd5fd0800000000000000
+      internalID: -2351513830114222444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 167
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647fca0d0fb01d60800000000000000
+      internalID: 7858991412498363498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 168
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8fe75ed019fdd0800000000000000
+      internalID: -2451909974982423947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_55
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 167
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9cf5dc132749ff0800000000000000
+      internalID: -30273739260179986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 167
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c5fd5aca4db5c20800000000000000
+      internalID: 3196382198531841145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_57
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42404e8e23670aec0800000000000000
+      internalID: -3557713744594992092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_58
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b61160a0d060f00800000000000000
+      internalID: 1082567097131821862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_59
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 151
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47575b86a0b44a440800000000000000
+      internalID: 4946160798838125940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ae80d6dd3f3e20800000000000000
+      internalID: 3332450242108762464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 143
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4bc26072d315f0800000000000000
+      internalID: -787054129724044652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 143
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f7017f037eb0d0800000000000000
+      internalID: -3405157758087465602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b1b3114c1fbb660800000000000000
+      internalID: 7402776236918512414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_64
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 127
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf31abb37606f4c0800000000000000
+      internalID: -4254205703865942090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_65
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9344bb70982543d0800000000000000
+      internalID: -3223125357297908833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 119
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1004ece63b2ac90800000000000000
+      internalID: -7159963169077591645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_67
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 119
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206c2863c52f8d4b0800000000000000
+      internalID: -5415312074047568382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_68
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 143
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d2087ae4c605a0800000000000000
+      internalID: -6555335696276335204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 119
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791d666f36ebb960800000000000000
+      internalID: 7618936354603080054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 143
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802890158fc2f50d0800000000000000
+      internalID: -3431974946009939448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_71
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 119
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50197830b818f590800000000000000
+      internalID: -7640329622693277606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_72
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 143
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f7f07948e43920800000000000000
+      internalID: 2969253456469553718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 121
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de26cd2b03f35540800000000000000
+      internalID: 4995603641022164696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 143
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c150f2a1ae34280800000000000000
+      internalID: -9060140627160392553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_75
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 143
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c577bd6df49ead0800000000000000
+      internalID: -2672517119644050303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc733b5b7bf232b0800000000000000
+      internalID: -5606142078893196111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 127
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d2d3bbf43d0470800000000000000
+      internalID: 8362398338755253701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 119
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9330b17cebf1b50800000000000000
+      internalID: 6566176544090438133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_79
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 119
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b794b53333c8da80800000000000000
+      internalID: -8441782876794218572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_80
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 119
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dea62c17ffaa1ed0800000000000000
+      internalID: -2442446372030992682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_81
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab59931273420ca0800000000000000
+      internalID: -6052200791998374994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 111
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f2a3ffe1ce0b590800000000000000
+      internalID: -7660363348282036335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 111
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6aa524996f64da0800000000000000
+      internalID: -5960805918674606383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_84
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 103
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792ecfdc8f16e660800000000000000
+      internalID: 7414648526422813052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 103
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4fd7b7744afd5e0800000000000000
+      internalID: -1882605492296092473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 103
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3092c285bba426660800000000000000
+      internalID: 7377541308084922627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_87
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 95
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dea09217b9feaaf0800000000000000
+      internalID: -383094353594110255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_88
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 96
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3568e39498ac43650800000000000000
+      internalID: 6211812477038921299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_89
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 97
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488ec3444433e000800000000000000
+      internalID: 63952287513348162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 95
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac094e0accf1957e0800000000000000
+      internalID: -1776353614287826742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_91
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3c0fa18a0d7e70800000000000000
+      internalID: 9114452772971626428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_92
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639dc89d7e68fd700800000000000000
+      internalID: 567320408417425718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_93
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5b8577eff9c4b0800000000000000
+      internalID: -5419519306989084850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_94
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7156d3d73181640800000000000000
+      internalID: 5050808410717886377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_95
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 95
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d161cc51df2a8a6a0800000000000000
+      internalID: -6437716459450001891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_96
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 95
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52068598e255febc0800000000000000
+      internalID: -3751686306215206875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_97
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 95
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3ac370009b0cd0800000000000000
+      internalID: -2590818829004554938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_98
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8012a01c2c7118b70800000000000000
+      internalID: 8899420463890571528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_99
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e93a605bdd1f10800000000000000
+      internalID: 2242189327926421183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_100
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21999cc3686a2a250800000000000000
+      internalID: 5954504752812890386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a231f0720b02f0800000000000000
+      internalID: -1005707407680952746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdae3eaee995ff00800000000000000
+      internalID: 1149994530267639227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_103
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f805d2841548a8b50800000000000000
+      internalID: 6596230088875659407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e0a0be3e7028a0800000000000000
+      internalID: -6331922268366511978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_105
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9afb4f86c7267d00800000000000000
+      internalID: 970006503506049695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_106
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31e18b5c6190f90800000000000000
+      internalID: -6987028308435266609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_107
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54da3239797f3a0800000000000000
+      internalID: -6631665268065221167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_108
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 87
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80425e1bb1b7dde0800000000000000
+      internalID: -1308381749502132081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_109
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4872a6fb15ff70800000000000000
+      internalID: 9220306558212655778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_110
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 87
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c80c2fb1697aa0800000000000000
+      internalID: -6162787141374392228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465c6b5ead4fc750800000000000000
+      internalID: 6327361412732311113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_112
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 87
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4caaf22afef5c0800000000000000
+      internalID: -4179628376011812941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_113
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573876f089514d70800000000000000
+      internalID: 9025593538652944211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_114
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8aa932a863a080800000000000000
+      internalID: -9177376569689469842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_115
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 87
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d22cf79ef385a0800000000000000
+      internalID: -6520087906778687062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_116
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 87
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a38902c965e820800000000000000
+      internalID: 2946877813288051081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_117
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 71
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7cab56df38cd1a0800000000000000
+      internalID: -6783401814370105432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_118
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 71
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f637566b864a720800000000000000
+      internalID: 2856523196255137616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_119
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 71
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9bb3262fd97f670800000000000000
+      internalID: 8572494080078756262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_120
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a02cd6459c3a410800000000000000
+      internalID: 1487253666418264695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_121
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 71
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404b16159161fbd0800000000000000
+      internalID: -2598188217067159477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_122
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 71
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9bd99dca9ade340800000000000000
+      internalID: 4894754929872058796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_123
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 71
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf0d0968cca61990800000000000000
+      internalID: -7415549759663042623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_124
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30afab8521e393b80800000000000000
+      internalID: -8414626180246078973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_125
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4070d19bc1ce70800000000000000
+      internalID: 9133805346411793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_126
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447859fdf307a5780800000000000000
+      internalID: -8693512711048951996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_127
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 71
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e7a7eb600e8520800000000000000
+      internalID: 2706100889544287779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_128
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 71
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010bd3b6e5616450800000000000000
+      internalID: 6080253013461238027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_129
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 71
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30faa881b9c0d9f70800000000000000
+      internalID: 9195519874431627011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f0212bff9f22c60800000000000000
+      internalID: 7792065181903884100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda89dae1dd8ddb50800000000000000
+      internalID: 6619602960032303835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_132
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 39
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc5130c2c853680800000000000000
+      internalID: -8775954178203333486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_133
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a05e1a321686290800000000000000
+      internalID: -7896955140926273010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_134
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 31
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8815f1946d95978e0800000000000000
+      internalID: -1695225007843618424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_135
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18511f3901ce5300800000000000000
+      internalID: 242843675381553180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_136
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 55
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5cce46aaf7dff50800000000000000
+      internalID: 6916824972525356521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_137
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 55
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dfa8369fb926d80800000000000000
+      internalID: -8258867271224853197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94d0d200f1c4930800000000000000
+      internalID: 4128709044008208810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_139
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f7f325a31147c0800000000000000
+      internalID: -4088965386681715516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_140
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabcc261aff54e10800000000000000
+      internalID: 2181430663143275201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_141
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c50adaf3a04f670800000000000000
+      internalID: 8571487259405081745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 55
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5bcf64baff17600800000000000000
+      internalID: 464433347691328986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_143
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 39
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6e4691c96f16d0800000000000000
+      internalID: -3017576945143616149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_144
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 39
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9b31aae964db30800000000000000
+      internalID: 4311187199748710090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_145
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 47
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705380da64f61b90800000000000000
+      internalID: -7271355808741109648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_146
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 47
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0004ea32048d870800000000000000
+      internalID: 8707780401512317129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_147
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 47
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a44458978027140800000000000000
+      internalID: 4715841077830240866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_148
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 47
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534dda3ad37cf930800000000000000
+      internalID: 4178341935420621649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec5c8578de027c20800000000000000
+      internalID: 3202638607861701860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b1da192246e310800000000000000
+      internalID: 1433906275675124337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_151
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcda3e6fe6ea9c10800000000000000
+      internalID: 2061213695496346808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_152
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 39
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e124e7699bac60800000000000000
+      internalID: 7830521048601846202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 39
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc44834baa42bc0800000000000000
+      internalID: -3808731693833728221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_154
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77d793f9f80e4b40800000000000000
+      internalID: 5426284470654719871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_155
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0758e29b378986ee0800000000000000
+      internalID: -1267595672309299856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_156
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 47
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6f87081a8a72730800000000000000
+      internalID: 3974330607776364287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_157
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e3d03a5758acd0800000000000000
+      internalID: -2546689544400149300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94af152991fd3610800000000000000
+      internalID: 1602702682468885658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_159
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8bdb49f2384df40800000000000000
+      internalID: 5752366864441129170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7aeb65d4baf93e0800000000000000
+      internalID: -2044727357146749022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_161
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585ec127e3898530800000000000000
+      internalID: 3857759584547395669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_162
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b7401f4e031530800000000000000
+      internalID: 3824416241306023855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_163
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 7
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df1e82a7a7581680800000000000000
+      internalID: -8784174695687774251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_164
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 7
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2523fec88f0e4e00800000000000000
+      internalID: 1030778444976432427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_165
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 7
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c936203994e24dc10800000000000000
+      internalID: 2077336221658538908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_166
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12ade73350e6460800000000000000
+      internalID: 7236727369960661421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_167
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f03417292cd070800000000000000
+      internalID: 8132420274943488272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_168
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbffb6445066b600800000000000000
+      internalID: 483679925069413370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_169
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5839fffd69598c0800000000000000
+      internalID: -3993119605784345158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_170
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 15
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0ca76c4cb3a6c0800000000000000
+      internalID: -4133252996653117802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee3486d3d352d4faeaeb04cb96454d
+      internalID: 1221680680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef523c1987a354f9288c93a63e6846
+      internalID: -1348308253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f1a727eaabf1c4a94f9f9cb294badb
+      internalID: -1254374310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_174
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61bfcfaafdd8a04a88bbb0df26a2b3c
+      internalID: -262793876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78995b7f7d93e9b4483d5586248c18e5
+      internalID: -111819014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6526820824866743a99793f09b19ec1
+      internalID: 660450385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_177
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542cf9f27eeb204e9fff19ae8a5beb9
+      internalID: 1525262871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1790b617f1a0e4ba8e28fcb72c67fa
+      internalID: -116195708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12575bb71b35ff342b4acec786a4a600
+      internalID: 1006322606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e998660fc3dc4081d9e236ed2d7a9
+      internalID: -282951216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8fea3e6404ade43a1a9958d5386c69
+      internalID: -1262068115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_182
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d8e89260e57df4b98ee4e163aa7b07
+      internalID: 1985753750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc2c1d3b4bc4304bb3d8413f33b6821
+      internalID: 119014811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_184
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a31ce97d03514a86ab0b9d0cb4994
+      internalID: -924444020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f583b6484ee04d649874360c55571ef1
+      internalID: 1081659407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747660f80aa57d47944762f84603524
+      internalID: 926022055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 440
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9636b0dc410c488d397d2ed6c860c
+      internalID: 2054980376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4cca5b98904784ca1ce6d1229bb43d
+      internalID: 436275819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f51d58ea3d5146bca5273895c4468
+      internalID: 259763148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094979523af96440a9f768ebcf3435a
+      internalID: -1219703229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f8035c2b759d4a9ff914d01a00b28
+      internalID: 766468548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9410bb6e42fda1c428c82d15c6a1a8f2
+      internalID: -1498598721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeeb3e446d82b6429a9b1c0946e9ea8
+      internalID: 1459257631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813d953e4a15c74bb3f7b5f2002548b
+      internalID: -662448301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_195
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc624b0b7d77a48877b45aa7039840
+      internalID: -604523578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86e4ecebe9c7440814dc872199280e
+      internalID: -637756528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a52144431aee4da7a3ca3a52cc5a7
+      internalID: -1849239837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805326035e6684d4eb8d767627ee3f3f
+      internalID: 307412697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894186b71df3e4b43a077989ded675eb
+      internalID: -1145209581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651fc9b0cb748f4d989387b0b0f2128
+      internalID: -655939765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824445dd7cfa7d42ab77fe44057197e
+      internalID: -1098922861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d3911d0242b64cbc6a171767b3972
+      internalID: -1627374810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_203
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe3f370f9642e04081c1f70bdc53a2f
+      internalID: -479307026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_204
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed3924361166644bcabfbad6ac133c
+      internalID: 1119311603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_205
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00666a9214b5c164c923c747bf15fa59
+      internalID: 1210378598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_206
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd75c7a9a9a5b94fbb1899215e25362
+      internalID: -858833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff20d14d40a6c4dacb5c8c14f9f3aa
+      internalID: -958199389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226f2c6c35f4aa44a55a47bf910facd
+      internalID: 529462292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a720113a3daa4e9c67ae2bb0555b8
+      internalID: 1152942300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_210
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b019ca84a8d78d4ca86d7287e9b8151
+      internalID: -80235228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956370bae3e60f4f81f01fbbce115e7
+      internalID: -286437573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 440
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb98909a604fd4aa87664ca4908cd3
+      internalID: -990421720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_213
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec3cb1e82f8704fae99205d9a9600d
+      internalID: -1395776644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_214
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78adb4bca62392e419af27e1b2a20b17
+      internalID: 1259944791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_215
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec25274c4cafb54f9156cc7f89065c3
+      internalID: -591726540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_216
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703813932f50634784e416b50866f8c
+      internalID: 1305111432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 440
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd586bf3ba9619145a37fedd2514d40a
+      internalID: 1090278111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f4f1a5f374e54998b7fda5f46acde
+      internalID: -1840986885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f134d90e1f540044b61af0f38fa9d06
+      internalID: 688465607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d868590c299cd45ba5880fc1d7ca11
+      internalID: -1420055924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a9b08884ab014eb7782d0533115e7
+      internalID: -930608915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_222
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642fdcd7de9dd9498e534cff9af2cd0
+      internalID: -989766195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1cf63a36911a84293d6b778a2744cd
+      internalID: 701490469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_224
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a6a7ac05e4624997279beb62b9d6f
+      internalID: -442817599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_225
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24da70716ceb114484ee4d9d713ba18
+      internalID: -945608965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_226
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 464
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4715bfa0b0b72e342a0f4a7ee4a138b5
+      internalID: -338164541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whimsy_Hallow-Forest V1.07-export copy_227
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 472
+        width: 8
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebcfa1efdb4ef74287e82fe26c5d5f6
+      internalID: -1146380676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b551e59fb341bc479513c40813d8ec3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Whimsy_Hallow-Forest V1.07-export copy_0: 6361520086216989406
+      Whimsy_Hallow-Forest V1.07-export copy_1: -1048510185898899340
+      Whimsy_Hallow-Forest V1.07-export copy_10: 3247588784077877572
+      Whimsy_Hallow-Forest V1.07-export copy_100: 5954504752812890386
+      Whimsy_Hallow-Forest V1.07-export copy_101: -1005707407680952746
+      Whimsy_Hallow-Forest V1.07-export copy_102: 1149994530267639227
+      Whimsy_Hallow-Forest V1.07-export copy_103: 6596230088875659407
+      Whimsy_Hallow-Forest V1.07-export copy_104: -6331922268366511978
+      Whimsy_Hallow-Forest V1.07-export copy_105: 970006503506049695
+      Whimsy_Hallow-Forest V1.07-export copy_106: -6987028308435266609
+      Whimsy_Hallow-Forest V1.07-export copy_107: -6631665268065221167
+      Whimsy_Hallow-Forest V1.07-export copy_108: -1308381749502132081
+      Whimsy_Hallow-Forest V1.07-export copy_109: 9220306558212655778
+      Whimsy_Hallow-Forest V1.07-export copy_11: -5583670975482575491
+      Whimsy_Hallow-Forest V1.07-export copy_110: -6162787141374392228
+      Whimsy_Hallow-Forest V1.07-export copy_111: 6327361412732311113
+      Whimsy_Hallow-Forest V1.07-export copy_112: -4179628376011812941
+      Whimsy_Hallow-Forest V1.07-export copy_113: 9025593538652944211
+      Whimsy_Hallow-Forest V1.07-export copy_114: -9177376569689469842
+      Whimsy_Hallow-Forest V1.07-export copy_115: -6520087906778687062
+      Whimsy_Hallow-Forest V1.07-export copy_116: 2946877813288051081
+      Whimsy_Hallow-Forest V1.07-export copy_117: -6783401814370105432
+      Whimsy_Hallow-Forest V1.07-export copy_118: 2856523196255137616
+      Whimsy_Hallow-Forest V1.07-export copy_119: 8572494080078756262
+      Whimsy_Hallow-Forest V1.07-export copy_12: -8460382357740927899
+      Whimsy_Hallow-Forest V1.07-export copy_120: 1487253666418264695
+      Whimsy_Hallow-Forest V1.07-export copy_121: -2598188217067159477
+      Whimsy_Hallow-Forest V1.07-export copy_122: 4894754929872058796
+      Whimsy_Hallow-Forest V1.07-export copy_123: -7415549759663042623
+      Whimsy_Hallow-Forest V1.07-export copy_124: -8414626180246078973
+      Whimsy_Hallow-Forest V1.07-export copy_125: 9133805346411793307
+      Whimsy_Hallow-Forest V1.07-export copy_126: -8693512711048951996
+      Whimsy_Hallow-Forest V1.07-export copy_127: 2706100889544287779
+      Whimsy_Hallow-Forest V1.07-export copy_128: 6080253013461238027
+      Whimsy_Hallow-Forest V1.07-export copy_129: 9195519874431627011
+      Whimsy_Hallow-Forest V1.07-export copy_13: 7780208264494678078
+      Whimsy_Hallow-Forest V1.07-export copy_130: 7792065181903884100
+      Whimsy_Hallow-Forest V1.07-export copy_131: 6619602960032303835
+      Whimsy_Hallow-Forest V1.07-export copy_132: -8775954178203333486
+      Whimsy_Hallow-Forest V1.07-export copy_133: -7896955140926273010
+      Whimsy_Hallow-Forest V1.07-export copy_134: -1695225007843618424
+      Whimsy_Hallow-Forest V1.07-export copy_135: 242843675381553180
+      Whimsy_Hallow-Forest V1.07-export copy_136: 6916824972525356521
+      Whimsy_Hallow-Forest V1.07-export copy_137: -8258867271224853197
+      Whimsy_Hallow-Forest V1.07-export copy_138: 4128709044008208810
+      Whimsy_Hallow-Forest V1.07-export copy_139: -4088965386681715516
+      Whimsy_Hallow-Forest V1.07-export copy_14: 4267812349152909204
+      Whimsy_Hallow-Forest V1.07-export copy_140: 2181430663143275201
+      Whimsy_Hallow-Forest V1.07-export copy_141: 8571487259405081745
+      Whimsy_Hallow-Forest V1.07-export copy_142: 464433347691328986
+      Whimsy_Hallow-Forest V1.07-export copy_143: -3017576945143616149
+      Whimsy_Hallow-Forest V1.07-export copy_144: 4311187199748710090
+      Whimsy_Hallow-Forest V1.07-export copy_145: -7271355808741109648
+      Whimsy_Hallow-Forest V1.07-export copy_146: 8707780401512317129
+      Whimsy_Hallow-Forest V1.07-export copy_147: 4715841077830240866
+      Whimsy_Hallow-Forest V1.07-export copy_148: 4178341935420621649
+      Whimsy_Hallow-Forest V1.07-export copy_149: 3202638607861701860
+      Whimsy_Hallow-Forest V1.07-export copy_15: -8397460676672705680
+      Whimsy_Hallow-Forest V1.07-export copy_150: 1433906275675124337
+      Whimsy_Hallow-Forest V1.07-export copy_151: 2061213695496346808
+      Whimsy_Hallow-Forest V1.07-export copy_152: 7830521048601846202
+      Whimsy_Hallow-Forest V1.07-export copy_153: -3808731693833728221
+      Whimsy_Hallow-Forest V1.07-export copy_154: 5426284470654719871
+      Whimsy_Hallow-Forest V1.07-export copy_155: -1267595672309299856
+      Whimsy_Hallow-Forest V1.07-export copy_156: 3974330607776364287
+      Whimsy_Hallow-Forest V1.07-export copy_157: -2546689544400149300
+      Whimsy_Hallow-Forest V1.07-export copy_158: 1602702682468885658
+      Whimsy_Hallow-Forest V1.07-export copy_159: 5752366864441129170
+      Whimsy_Hallow-Forest V1.07-export copy_16: -3345123515026144423
+      Whimsy_Hallow-Forest V1.07-export copy_160: -2044727357146749022
+      Whimsy_Hallow-Forest V1.07-export copy_161: 3857759584547395669
+      Whimsy_Hallow-Forest V1.07-export copy_162: 3824416241306023855
+      Whimsy_Hallow-Forest V1.07-export copy_163: -8784174695687774251
+      Whimsy_Hallow-Forest V1.07-export copy_164: 1030778444976432427
+      Whimsy_Hallow-Forest V1.07-export copy_165: 2077336221658538908
+      Whimsy_Hallow-Forest V1.07-export copy_166: 7236727369960661421
+      Whimsy_Hallow-Forest V1.07-export copy_167: 8132420274943488272
+      Whimsy_Hallow-Forest V1.07-export copy_168: 483679925069413370
+      Whimsy_Hallow-Forest V1.07-export copy_169: -3993119605784345158
+      Whimsy_Hallow-Forest V1.07-export copy_17: -306601827362186617
+      Whimsy_Hallow-Forest V1.07-export copy_170: -4133252996653117802
+      Whimsy_Hallow-Forest V1.07-export copy_171: 1221680680
+      Whimsy_Hallow-Forest V1.07-export copy_172: -1348308253
+      Whimsy_Hallow-Forest V1.07-export copy_173: -1254374310
+      Whimsy_Hallow-Forest V1.07-export copy_174: -262793876
+      Whimsy_Hallow-Forest V1.07-export copy_175: -111819014
+      Whimsy_Hallow-Forest V1.07-export copy_176: 660450385
+      Whimsy_Hallow-Forest V1.07-export copy_177: 1525262871
+      Whimsy_Hallow-Forest V1.07-export copy_178: -116195708
+      Whimsy_Hallow-Forest V1.07-export copy_179: 1006322606
+      Whimsy_Hallow-Forest V1.07-export copy_18: 5585805933176855721
+      Whimsy_Hallow-Forest V1.07-export copy_180: -282951216
+      Whimsy_Hallow-Forest V1.07-export copy_181: -1262068115
+      Whimsy_Hallow-Forest V1.07-export copy_182: 1985753750
+      Whimsy_Hallow-Forest V1.07-export copy_183: 119014811
+      Whimsy_Hallow-Forest V1.07-export copy_184: -924444020
+      Whimsy_Hallow-Forest V1.07-export copy_185: 1081659407
+      Whimsy_Hallow-Forest V1.07-export copy_186: 926022055
+      Whimsy_Hallow-Forest V1.07-export copy_187: 2054980376
+      Whimsy_Hallow-Forest V1.07-export copy_188: 436275819
+      Whimsy_Hallow-Forest V1.07-export copy_189: 259763148
+      Whimsy_Hallow-Forest V1.07-export copy_19: -4043953468003597009
+      Whimsy_Hallow-Forest V1.07-export copy_190: -1219703229
+      Whimsy_Hallow-Forest V1.07-export copy_191: 766468548
+      Whimsy_Hallow-Forest V1.07-export copy_192: -1498598721
+      Whimsy_Hallow-Forest V1.07-export copy_193: 1459257631
+      Whimsy_Hallow-Forest V1.07-export copy_194: -662448301
+      Whimsy_Hallow-Forest V1.07-export copy_195: -604523578
+      Whimsy_Hallow-Forest V1.07-export copy_196: -637756528
+      Whimsy_Hallow-Forest V1.07-export copy_197: -1849239837
+      Whimsy_Hallow-Forest V1.07-export copy_198: 307412697
+      Whimsy_Hallow-Forest V1.07-export copy_199: -1145209581
+      Whimsy_Hallow-Forest V1.07-export copy_2: -4500805707207565466
+      Whimsy_Hallow-Forest V1.07-export copy_20: 3466978095946457886
+      Whimsy_Hallow-Forest V1.07-export copy_200: -655939765
+      Whimsy_Hallow-Forest V1.07-export copy_201: -1098922861
+      Whimsy_Hallow-Forest V1.07-export copy_202: -1627374810
+      Whimsy_Hallow-Forest V1.07-export copy_203: -479307026
+      Whimsy_Hallow-Forest V1.07-export copy_204: 1119311603
+      Whimsy_Hallow-Forest V1.07-export copy_205: 1210378598
+      Whimsy_Hallow-Forest V1.07-export copy_206: -858833481
+      Whimsy_Hallow-Forest V1.07-export copy_207: -958199389
+      Whimsy_Hallow-Forest V1.07-export copy_208: 529462292
+      Whimsy_Hallow-Forest V1.07-export copy_209: 1152942300
+      Whimsy_Hallow-Forest V1.07-export copy_21: -9194903485713896693
+      Whimsy_Hallow-Forest V1.07-export copy_210: -80235228
+      Whimsy_Hallow-Forest V1.07-export copy_211: -286437573
+      Whimsy_Hallow-Forest V1.07-export copy_212: -990421720
+      Whimsy_Hallow-Forest V1.07-export copy_213: -1395776644
+      Whimsy_Hallow-Forest V1.07-export copy_214: 1259944791
+      Whimsy_Hallow-Forest V1.07-export copy_215: -591726540
+      Whimsy_Hallow-Forest V1.07-export copy_216: 1305111432
+      Whimsy_Hallow-Forest V1.07-export copy_217: 1090278111
+      Whimsy_Hallow-Forest V1.07-export copy_218: -1840986885
+      Whimsy_Hallow-Forest V1.07-export copy_219: 688465607
+      Whimsy_Hallow-Forest V1.07-export copy_22: -4228355705902469503
+      Whimsy_Hallow-Forest V1.07-export copy_220: -1420055924
+      Whimsy_Hallow-Forest V1.07-export copy_221: -930608915
+      Whimsy_Hallow-Forest V1.07-export copy_222: -989766195
+      Whimsy_Hallow-Forest V1.07-export copy_223: 701490469
+      Whimsy_Hallow-Forest V1.07-export copy_224: -442817599
+      Whimsy_Hallow-Forest V1.07-export copy_225: -945608965
+      Whimsy_Hallow-Forest V1.07-export copy_226: -338164541
+      Whimsy_Hallow-Forest V1.07-export copy_227: -1146380676
+      Whimsy_Hallow-Forest V1.07-export copy_23: 1401175959485499262
+      Whimsy_Hallow-Forest V1.07-export copy_24: -9128879334506125489
+      Whimsy_Hallow-Forest V1.07-export copy_25: -4672071779826902659
+      Whimsy_Hallow-Forest V1.07-export copy_26: -8009289960989458410
+      Whimsy_Hallow-Forest V1.07-export copy_27: -2923566346253749259
+      Whimsy_Hallow-Forest V1.07-export copy_28: -6114407052469749920
+      Whimsy_Hallow-Forest V1.07-export copy_29: 182654941004968501
+      Whimsy_Hallow-Forest V1.07-export copy_3: -4081003742739945470
+      Whimsy_Hallow-Forest V1.07-export copy_30: 4438364800370568824
+      Whimsy_Hallow-Forest V1.07-export copy_31: 5489337629428104063
+      Whimsy_Hallow-Forest V1.07-export copy_32: -5182074710513816763
+      Whimsy_Hallow-Forest V1.07-export copy_33: 8488509262931559687
+      Whimsy_Hallow-Forest V1.07-export copy_34: -3148883794830847022
+      Whimsy_Hallow-Forest V1.07-export copy_35: 4297573741270893286
+      Whimsy_Hallow-Forest V1.07-export copy_36: -6393157161531016769
+      Whimsy_Hallow-Forest V1.07-export copy_37: -1682200398599082748
+      Whimsy_Hallow-Forest V1.07-export copy_38: 7178625398163783584
+      Whimsy_Hallow-Forest V1.07-export copy_39: -9109242019412400952
+      Whimsy_Hallow-Forest V1.07-export copy_4: -4196829941298360851
+      Whimsy_Hallow-Forest V1.07-export copy_40: 6026568860798333568
+      Whimsy_Hallow-Forest V1.07-export copy_41: -5237567241717148917
+      Whimsy_Hallow-Forest V1.07-export copy_42: -2405514308013939937
+      Whimsy_Hallow-Forest V1.07-export copy_43: -867286419513370518
+      Whimsy_Hallow-Forest V1.07-export copy_44: -8184786585541845384
+      Whimsy_Hallow-Forest V1.07-export copy_45: -4389873839028083677
+      Whimsy_Hallow-Forest V1.07-export copy_46: -7284213099804096939
+      Whimsy_Hallow-Forest V1.07-export copy_47: 2997346610632527898
+      Whimsy_Hallow-Forest V1.07-export copy_48: -1478045652241888194
+      Whimsy_Hallow-Forest V1.07-export copy_49: -4079937660622650238
+      Whimsy_Hallow-Forest V1.07-export copy_5: -2210763258870898784
+      Whimsy_Hallow-Forest V1.07-export copy_50: -8641499276714556544
+      Whimsy_Hallow-Forest V1.07-export copy_51: -8560211519203614101
+      Whimsy_Hallow-Forest V1.07-export copy_52: -2351513830114222444
+      Whimsy_Hallow-Forest V1.07-export copy_53: 7858991412498363498
+      Whimsy_Hallow-Forest V1.07-export copy_54: -2451909974982423947
+      Whimsy_Hallow-Forest V1.07-export copy_55: -30273739260179986
+      Whimsy_Hallow-Forest V1.07-export copy_56: 3196382198531841145
+      Whimsy_Hallow-Forest V1.07-export copy_57: -3557713744594992092
+      Whimsy_Hallow-Forest V1.07-export copy_58: 1082567097131821862
+      Whimsy_Hallow-Forest V1.07-export copy_59: 4946160798838125940
+      Whimsy_Hallow-Forest V1.07-export copy_6: 2221073151519304083
+      Whimsy_Hallow-Forest V1.07-export copy_60: 3332450242108762464
+      Whimsy_Hallow-Forest V1.07-export copy_61: -787054129724044652
+      Whimsy_Hallow-Forest V1.07-export copy_62: -3405157758087465602
+      Whimsy_Hallow-Forest V1.07-export copy_63: 7402776236918512414
+      Whimsy_Hallow-Forest V1.07-export copy_64: -4254205703865942090
+      Whimsy_Hallow-Forest V1.07-export copy_65: -3223125357297908833
+      Whimsy_Hallow-Forest V1.07-export copy_66: -7159963169077591645
+      Whimsy_Hallow-Forest V1.07-export copy_67: -5415312074047568382
+      Whimsy_Hallow-Forest V1.07-export copy_68: -6555335696276335204
+      Whimsy_Hallow-Forest V1.07-export copy_69: 7618936354603080054
+      Whimsy_Hallow-Forest V1.07-export copy_7: -608035324513283982
+      Whimsy_Hallow-Forest V1.07-export copy_70: -3431974946009939448
+      Whimsy_Hallow-Forest V1.07-export copy_71: -7640329622693277606
+      Whimsy_Hallow-Forest V1.07-export copy_72: 2969253456469553718
+      Whimsy_Hallow-Forest V1.07-export copy_73: 4995603641022164696
+      Whimsy_Hallow-Forest V1.07-export copy_74: -9060140627160392553
+      Whimsy_Hallow-Forest V1.07-export copy_75: -2672517119644050303
+      Whimsy_Hallow-Forest V1.07-export copy_76: -5606142078893196111
+      Whimsy_Hallow-Forest V1.07-export copy_77: 8362398338755253701
+      Whimsy_Hallow-Forest V1.07-export copy_78: 6566176544090438133
+      Whimsy_Hallow-Forest V1.07-export copy_79: -8441782876794218572
+      Whimsy_Hallow-Forest V1.07-export copy_8: -288983439013826969
+      Whimsy_Hallow-Forest V1.07-export copy_80: -2442446372030992682
+      Whimsy_Hallow-Forest V1.07-export copy_81: -6052200791998374994
+      Whimsy_Hallow-Forest V1.07-export copy_82: -7660363348282036335
+      Whimsy_Hallow-Forest V1.07-export copy_83: -5960805918674606383
+      Whimsy_Hallow-Forest V1.07-export copy_84: 7414648526422813052
+      Whimsy_Hallow-Forest V1.07-export copy_85: -1882605492296092473
+      Whimsy_Hallow-Forest V1.07-export copy_86: 7377541308084922627
+      Whimsy_Hallow-Forest V1.07-export copy_87: -383094353594110255
+      Whimsy_Hallow-Forest V1.07-export copy_88: 6211812477038921299
+      Whimsy_Hallow-Forest V1.07-export copy_89: 63952287513348162
+      Whimsy_Hallow-Forest V1.07-export copy_9: -7979441030367971618
+      Whimsy_Hallow-Forest V1.07-export copy_90: -1776353614287826742
+      Whimsy_Hallow-Forest V1.07-export copy_91: 9114452772971626428
+      Whimsy_Hallow-Forest V1.07-export copy_92: 567320408417425718
+      Whimsy_Hallow-Forest V1.07-export copy_93: -5419519306989084850
+      Whimsy_Hallow-Forest V1.07-export copy_94: 5050808410717886377
+      Whimsy_Hallow-Forest V1.07-export copy_95: -6437716459450001891
+      Whimsy_Hallow-Forest V1.07-export copy_96: -3751686306215206875
+      Whimsy_Hallow-Forest V1.07-export copy_97: -2590818829004554938
+      Whimsy_Hallow-Forest V1.07-export copy_98: 8899420463890571528
+      Whimsy_Hallow-Forest V1.07-export copy_99: 2242189327926421183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
