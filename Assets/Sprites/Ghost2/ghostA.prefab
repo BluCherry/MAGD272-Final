@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2126023768342560944}
   - component: {fileID: 4684348699176364352}
-  - component: {fileID: 3170322215709592016}
+  - component: {fileID: 1225224982927510381}
   - component: {fileID: 4311124326681320437}
   - component: {fileID: 7097678771076150333}
   - component: {fileID: -8970828534830753002}
@@ -36,7 +36,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.5, y: -2.6408, z: 0}
-  m_LocalScale: {x: 1.570363, y: 1.570363, z: 1.570363}
+  m_LocalScale: {x: 2.1832757, y: 2.1832757, z: 2.1832757}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -88,19 +88,19 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4740742658319907719, guid: b0973db147269b548a754d537040dfbc, type: 3}
+  m_Sprite: {fileID: 3356121042914646169, guid: fcf4d70cf1dd9034b9b8d94ed5632a17, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.29, y: 0.27}
+  m_Size: {x: 0.16, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!60 &3170322215709592016
-PolygonCollider2D:
+--- !u!61 &1225224982927510381
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -136,21 +136,15 @@ PolygonCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 0.29, y: 0.27}
-    newSize: {x: 0.29, y: 0.27}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.16, y: 0.22}
+    newSize: {x: 0.16, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.145, y: 0.26999998}
-      - {x: -0.145, y: 0}
-      - {x: 0.145, y: 0}
-      - {x: 0.145, y: 0.13}
-      - {x: 0.095, y: 0.26999998}
-  m_UseDelaunayMesh: 0
+  m_Size: {x: 0.16, y: 0.22}
+  m_EdgeRadius: 0
 --- !u!50 &4311124326681320437
 Rigidbody2D:
   serializedVersion: 5
