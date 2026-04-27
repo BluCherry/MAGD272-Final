@@ -90,7 +90,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 3356121042914646169, guid: fcf4d70cf1dd9034b9b8d94ed5632a17, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.47843137}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.16, y: 0.22}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1095730381127317092}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e37402b8a26ff634b952eca607f34fa1, type: 3}
   m_Name: 
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfda27d7be5e734ba50aefe51a92d4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 10
+  maxHealth: 3
   currentHealth: 0
   immunityTime: 0.2
   immunityVisible: 1
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1095730381127317092}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aad35f6120bff3a43b7944767d2e221d, type: 3}
   m_Name: 
@@ -276,14 +276,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1095730381127317092}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7ff421bccc60c46ee8d8434cfa104732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TargetChaser
   autoSetPlayer: 1
   target: {fileID: 0}
-  agroDistance: 4
+  agroDistance: 3
   stoppingDistance: 0.1
   minimumDistance: 0.05
 --- !u!114 &7537087810419331281
@@ -300,4 +300,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TopDownPointMotor
   animators:
   - {fileID: 7097678771076150333}
-  <speed>k__BackingField: 1.5
+  <speed>k__BackingField: 1

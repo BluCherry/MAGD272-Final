@@ -16,6 +16,13 @@ public class ContactAttack : MonoBehaviour
     [HideInInspector]
     public bool disable = false;
 
+    private Rigidbody2D rb;
+
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (!disable)
@@ -24,20 +31,15 @@ public class ContactAttack : MonoBehaviour
             {
                 print("Contact attack!");
                 collision.gameObject.GetComponent<Health>().TakeDamage(damage);
+                float bounce = .5f; //amount of force to apply
+                rb.AddForce(collision.contacts[0].normal * bounce);
             }
         }
     }
     
     private void OnCollisionStay2D(Collision2D collision)
     {
-        if (!disable)
-        {
-            if ((onlyDamagePlayer && collision.gameObject.GetComponent<PlayerHealth>()) || (!onlyDamagePlayer && collision.gameObject.GetComponent<Health>()))
-            {
-                print("Contact attack!");
-                collision.gameObject.GetComponent<Health>().TakeDamage(damage);
-            }
-        }
+        
     }
     
     private void OnTriggerEnter2D(Collider2D collision)
