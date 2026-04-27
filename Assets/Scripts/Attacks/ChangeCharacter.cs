@@ -9,6 +9,7 @@ using static System.Runtime.CompilerServices.RuntimeHelpers;
 
 public class ChangeCharacter : MonoBehaviour
 {
+    [Header("player then spirit")]
     public List<GameObject> controllables;
     int active = 0;
 

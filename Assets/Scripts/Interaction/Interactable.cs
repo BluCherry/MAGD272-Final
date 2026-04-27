@@ -94,84 +94,6 @@ public class Interactable : MonoBehaviour, IInteractable
         {
             t.SetActive(oppositeState ? !active : active);
         }
-        
-
-        // if (!requiresKey)
-        // {
-        //     foreach (var t in target)
-        //     {
-        //         t.SetActive(oppositeState ? !active : active);
-        //     }
-        //     
-        //     active = !active;
-        // }
-        //
-        // if (requiresKey)
-        // {
-        //     if (hasKey)
-        //     {
-        //         if (active)
-        //         {
-        //             Debug.Log("Active");
-        //
-        //             for (int i = 0; i < target.Length; i++)
-        //             {
-        //                 if (oppositeState)
-        //                 {
-        //                     target[i].SetActive(true);
-        //                 }
-        //                 else
-        //                 {
-        //                     target[i].SetActive(false);
-        //                 }
-        //             }
-        //
-        //             active = false;
-        //         }
-        //         else
-        //         {
-        //             Debug.Log("is interactable");
-        //             for (int i = 0; i < target.Length; i++)
-        //             {
-        //                 if (oppositeState)
-        //                 {
-        //                     target[i].SetActive(false);
-        //                 }
-        //                 else
-        //                 {
-        //                     target[i].SetActive(true);
-        //                 }
-        //             }
-        //
-        //             active = true;
-        //             player.GetComponent<CollectibleManager>().UseKey();
-        //         }
-        //     }
-        // }
-        // else if (!requiresKey)
-        // {
-        //     if (active)
-        //     {
-        //         Debug.Log("Active");
-        //
-        //         for (int i = 0; i < target.Length; i++)
-        //         {
-        //             target[i].SetActive(false);
-        //         }
-        //
-        //         active = false;
-        //     }
-        //     else
-        //     {
-        //         Debug.Log("is interactable");
-        //         for (int i = 0; i < target.Length; i++)
-        //         {
-        //             target[i].SetActive(true);
-        //         }
-        //
-        //         active = true;
-        //     }
-        // }
     }
 
     public bool isActive()
@@ -196,7 +118,7 @@ public class Interactable : MonoBehaviour, IInteractable
         if (other.CompareTag("Player")) triggerEntered = false;
     }
 
-    void ChangeSprite()
+    public void ChangeSprite()
     {
         if (requiresKey && !hasKey) return;
         

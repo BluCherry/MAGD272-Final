@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CodeInput : MonoBehaviour, IInteractable
+public class CodeInput : MonoBehaviour
 {
     [Header("Uncheck for same states.", order = 4)]
     [Space(10, order = 5)]
@@ -18,15 +18,12 @@ public class CodeInput : MonoBehaviour, IInteractable
     [Header("Is the interactable turned on?")]
     public bool active;
 
+    [Header("Does time stop when paused?")]
+    public bool timeStop = true;
+    bool paused = false;
 
-    [Header("Are the target objects starting in the opposite state (active/inactive)", order = 0)]
-    [Space(-10, order = 1)]
-    [Header("as this interactiveble? Check for oppposite states, ", order = 2)]
-    [Space(-10, order = 3)]
-
-
-    [Header("How many objects would you like this interactable to turn on? Drag in the objects")]
-    public GameObject[] target;
+    [Header("GameObject that turns on when paused (UI)")]
+    public GameObject codeScreen;
 
     private bool triggerEntered;
 
@@ -37,10 +34,8 @@ public class CodeInput : MonoBehaviour, IInteractable
     {
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
 
-        foreach (var t in target)
-        {
-            t.SetActive(oppositeState ? !active : active);
-        }
+        codeScreen.SetActive(false);
+        Time.timeScale = 1;
     }
 
     // Update is called once per frame
@@ -48,7 +43,7 @@ public class CodeInput : MonoBehaviour, IInteractable
     {
         if (Input.GetKeyDown(keycode) && triggerEntered == true)
         {
-            interact();
+            interact(paused);
         }
     }
 
@@ -57,13 +52,21 @@ public class CodeInput : MonoBehaviour, IInteractable
         return true;
     }
 
-    public void interact()
+    public void interact(bool p)
     {
         active = !active;
-        
-        foreach (var t in target)
+
+        if (!p)  // pauses
         {
-            t.SetActive(oppositeState ? !active : active);
+            paused = true;
+            if (codeScreen) codeScreen.SetActive(true);
+            if (timeStop) Time.timeScale = 0;
+        }
+        else    // upauses
+        {
+            paused = false;
+            if (codeScreen) codeScreen.SetActive(false);
+            if (timeStop) Time.timeScale = 1;
         }
     }
 
