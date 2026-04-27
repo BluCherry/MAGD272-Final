@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 2e8c25a7c1c19a44b8d0694ab871cdab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7160952719298988583
+    second: spirit direct_0
+  - first:
+      213: -9123127873721358650
+    second: spirit direct_1
+  - first:
+      213: -3227520520663560307
+    second: spirit direct_2
+  - first:
+      213: -6421353892623648890
+    second: spirit direct_3
+  - first:
+      213: 1820385468657025320
+    second: spirit direct_4
+  - first:
+      213: 1109508555985098585
+    second: spirit direct_5
+  - first:
+      213: 2445419395722159462
+    second: spirit direct_6
+  - first:
+      213: -3656949318184726666
+    second: spirit direct_7
+  - first:
+      213: -1392002764443068485
+    second: spirit direct_8
+  - first:
+      213: 6059949983675818756
+    second: spirit direct_9
+  - first:
+      213: 5421856576454019693
+    second: spirit direct_10
+  - first:
+      213: -1718795542452188187
+    second: spirit direct_11
+  - first:
+      213: -413823475112127377
+    second: spirit direct_12
+  - first:
+      213: 1225356600620735571
+    second: spirit direct_13
+  - first:
+      213: 7368019090887931944
+    second: spirit direct_14
+  - first:
+      213: 9045205906753102226
+    second: spirit direct_15
+  - first:
+      213: 482164283968521345
+    second: spirit direct_16
+  - first:
+      213: 2067485017293855433
+    second: spirit direct_17
+  - first:
+      213: -6444475643996778296
+    second: spirit direct_18
+  - first:
+      213: 6179740803244868244
+    second: spirit direct_19
+  - first:
+      213: 1505091261224909622
+    second: spirit direct_20
+  - first:
+      213: -5498783125263930480
+    second: spirit direct_21
+  - first:
+      213: -9077250199189820981
+    second: spirit direct_22
+  - first:
+      213: 404582323889515348
+    second: spirit direct_23
+  - first:
+      213: -6356899550395972482
+    second: spirit direct_24
+  - first:
+      213: 4231762166733416371
+    second: spirit direct_25
+  - first:
+      213: -3652819256224806653
+    second: spirit direct_26
+  - first:
+      213: -8175929799638122198
+    second: spirit direct_27
+  - first:
+      213: -6271885656596915266
+    second: spirit direct_28
+  - first:
+      213: -7553242334532421361
+    second: spirit direct_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spirit direct_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 321
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f0d0317f2f9c90800000000000000
+      internalID: -7160952719298988583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 57
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6af560983246180800000000000000
+      internalID: -9123127873721358650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8094cf2b8533d0800000000000000
+      internalID: -3227520520663560307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 55
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687781d08a4c2e6a0800000000000000
+      internalID: -6421353892623648890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 49
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821c59d50fe434910800000000000000
+      internalID: 1820385468657025320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579fba3724c56f00800000000000000
+      internalID: 1109508555985098585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665aed8ebffdfe120800000000000000
+      internalID: 2445419395722159462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 53
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f0eff68f7ef3dc0800000000000000
+      internalID: -3656949318184726666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 57
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb752036cdc9eace0800000000000000
+      internalID: -1392002764443068485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 56
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403a1a53764491450800000000000000
+      internalID: 6059949983675818756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a48ae74dd4e3b40800000000000000
+      internalID: 5421856576454019693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 56
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebcc9a8f8c9528e0800000000000000
+      internalID: -1718795542452188187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64593eedbdc14af0800000000000000
+      internalID: -413823475112127377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 58
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cdd270657510110800000000000000
+      internalID: 1225356600620735571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828fba26356704660800000000000000
+      internalID: 7368019090887931944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 61
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a84049d6078d70800000000000000
+      internalID: 9045205906753102226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18403559cddf0b600800000000000000
+      internalID: 482164283968521345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1e325bae21bc10800000000000000
+      internalID: 2067485017293855433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 51
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05aebcb8f9096a0800000000000000
+      internalID: -6444475643996778296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 52
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c565d489d2c550800000000000000
+      internalID: 6179740803244868244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bfadb178823e410800000000000000
+      internalID: 1505091261224909622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 52
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2bb1a1e560b3b0800000000000000
+      internalID: -5498783125263930480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 45
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc962f38901270280800000000000000
+      internalID: -9077250199189820981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 53
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b26d1ea7d5d9500800000000000000
+      internalID: 404582323889515348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cec90a81c7c7a0800000000000000
+      internalID: -6356899550395972482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 58
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72512154d3aba30800000000000000
+      internalID: 4231762166733416371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309830c6d349e4dc0800000000000000
+      internalID: -3652819256224806653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_27
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210a084a23498e80800000000000000
+      internalID: -8175929799638122198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 53
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb5ca6a939c5f8a0800000000000000
+      internalID: -6271885656596915266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit direct_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b0c39d1e7d2790800000000000000
+      internalID: -7553242334532421361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd854c89e42a2164f8a583cf980403fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spirit direct_0: -7160952719298988583
+      spirit direct_1: -9123127873721358650
+      spirit direct_10: 5421856576454019693
+      spirit direct_11: -1718795542452188187
+      spirit direct_12: -413823475112127377
+      spirit direct_13: 1225356600620735571
+      spirit direct_14: 7368019090887931944
+      spirit direct_15: 9045205906753102226
+      spirit direct_16: 482164283968521345
+      spirit direct_17: 2067485017293855433
+      spirit direct_18: -6444475643996778296
+      spirit direct_19: 6179740803244868244
+      spirit direct_2: -3227520520663560307
+      spirit direct_20: 1505091261224909622
+      spirit direct_21: -5498783125263930480
+      spirit direct_22: -9077250199189820981
+      spirit direct_23: 404582323889515348
+      spirit direct_24: -6356899550395972482
+      spirit direct_25: 4231762166733416371
+      spirit direct_26: -3652819256224806653
+      spirit direct_27: -8175929799638122198
+      spirit direct_28: -6271885656596915266
+      spirit direct_29: -7553242334532421361
+      spirit direct_3: -6421353892623648890
+      spirit direct_4: 1820385468657025320
+      spirit direct_5: 1109508555985098585
+      spirit direct_6: 2445419395722159462
+      spirit direct_7: -3656949318184726666
+      spirit direct_8: -1392002764443068485
+      spirit direct_9: 6059949983675818756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

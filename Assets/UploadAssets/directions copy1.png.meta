@@ -1,0 +1,4053 @@
+fileFormatVersion: 2
+guid: d532282e9af4dc148918a63ba56ce83e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 493174706655676691
+    second: directions copy1_0
+  - first:
+      213: -4903495575335016166
+    second: directions copy1_1
+  - first:
+      213: 6042557733270061956
+    second: directions copy1_2
+  - first:
+      213: 4994782672143916930
+    second: directions copy1_3
+  - first:
+      213: 1918863458381942746
+    second: directions copy1_4
+  - first:
+      213: 6570249122668525751
+    second: directions copy1_5
+  - first:
+      213: -9125152277911220257
+    second: directions copy1_6
+  - first:
+      213: -7798393114364202890
+    second: directions copy1_7
+  - first:
+      213: -8121349915275641611
+    second: directions copy1_8
+  - first:
+      213: -4384702861872491177
+    second: directions copy1_9
+  - first:
+      213: 8165286389888796755
+    second: directions copy1_10
+  - first:
+      213: -5036038249934027301
+    second: directions copy1_11
+  - first:
+      213: -1957787239624860500
+    second: directions copy1_12
+  - first:
+      213: 5951893671325399252
+    second: directions copy1_13
+  - first:
+      213: -5518442764448591162
+    second: directions copy1_14
+  - first:
+      213: -8737859633761423820
+    second: directions copy1_15
+  - first:
+      213: -6743529808713626002
+    second: directions copy1_16
+  - first:
+      213: 295148093795703074
+    second: directions copy1_17
+  - first:
+      213: 5971493194942216485
+    second: directions copy1_18
+  - first:
+      213: -8888277685674764186
+    second: directions copy1_19
+  - first:
+      213: -6595736529967501875
+    second: directions copy1_20
+  - first:
+      213: -1882996128232782977
+    second: directions copy1_21
+  - first:
+      213: -6783043316081942241
+    second: directions copy1_22
+  - first:
+      213: 4766390197536832537
+    second: directions copy1_23
+  - first:
+      213: -4565978507390230584
+    second: directions copy1_24
+  - first:
+      213: -500850888309273277
+    second: directions copy1_25
+  - first:
+      213: 8092180823811528683
+    second: directions copy1_26
+  - first:
+      213: 4409627589872061721
+    second: directions copy1_27
+  - first:
+      213: -640282544826378394
+    second: directions copy1_28
+  - first:
+      213: 4315348820076953620
+    second: directions copy1_29
+  - first:
+      213: 3800247162014999106
+    second: directions copy1_30
+  - first:
+      213: 5648501780694119606
+    second: directions copy1_31
+  - first:
+      213: 3509807362632971692
+    second: directions copy1_32
+  - first:
+      213: 4883571573738981620
+    second: directions copy1_33
+  - first:
+      213: 7268852101928341726
+    second: directions copy1_34
+  - first:
+      213: -7171212670086112259
+    second: directions copy1_35
+  - first:
+      213: 7206358947698075259
+    second: directions copy1_36
+  - first:
+      213: -1444693482121693675
+    second: directions copy1_37
+  - first:
+      213: 6682113142233221621
+    second: directions copy1_38
+  - first:
+      213: -4928747089027472457
+    second: directions copy1_39
+  - first:
+      213: -3232340998343638048
+    second: directions copy1_40
+  - first:
+      213: 6467828332850219775
+    second: directions copy1_41
+  - first:
+      213: 5865750056765520322
+    second: directions copy1_42
+  - first:
+      213: -5939383195507583436
+    second: directions copy1_43
+  - first:
+      213: -7664504518804575111
+    second: directions copy1_44
+  - first:
+      213: 2428161786778840582
+    second: directions copy1_45
+  - first:
+      213: 9139458670691812299
+    second: directions copy1_46
+  - first:
+      213: 1391388158555529191
+    second: directions copy1_47
+  - first:
+      213: 7202979437754257084
+    second: directions copy1_48
+  - first:
+      213: -8009605259791081943
+    second: directions copy1_49
+  - first:
+      213: -5070760734562929430
+    second: directions copy1_50
+  - first:
+      213: -5557288353942838811
+    second: directions copy1_51
+  - first:
+      213: -186688290189173484
+    second: directions copy1_52
+  - first:
+      213: 8444684676231113442
+    second: directions copy1_53
+  - first:
+      213: -5038744253626605189
+    second: directions copy1_54
+  - first:
+      213: -6457408235302222862
+    second: directions copy1_55
+  - first:
+      213: -6834940364356240779
+    second: directions copy1_56
+  - first:
+      213: 2924779827217845392
+    second: directions copy1_57
+  - first:
+      213: 1119849924036643210
+    second: directions copy1_58
+  - first:
+      213: 1824398062650370109
+    second: directions copy1_59
+  - first:
+      213: 6623333828950700041
+    second: directions copy1_60
+  - first:
+      213: -7837603674394540920
+    second: directions copy1_61
+  - first:
+      213: 6278373269897597708
+    second: directions copy1_62
+  - first:
+      213: -1840145721868131933
+    second: directions copy1_63
+  - first:
+      213: 6641533996511198357
+    second: directions copy1_64
+  - first:
+      213: 6542368472706138700
+    second: directions copy1_65
+  - first:
+      213: 7228053786108445277
+    second: directions copy1_66
+  - first:
+      213: 7908849831764911322
+    second: directions copy1_67
+  - first:
+      213: -3184660487409057075
+    second: directions copy1_68
+  - first:
+      213: 4603942105218227543
+    second: directions copy1_69
+  - first:
+      213: 6510486851068690045
+    second: directions copy1_70
+  - first:
+      213: 6689768996048508253
+    second: directions copy1_71
+  - first:
+      213: 6373479787141802129
+    second: directions copy1_72
+  - first:
+      213: -7456301859840310584
+    second: directions copy1_73
+  - first:
+      213: 4216322228542445891
+    second: directions copy1_74
+  - first:
+      213: 294774906888256070
+    second: directions copy1_75
+  - first:
+      213: 6289459128118862735
+    second: directions copy1_76
+  - first:
+      213: 9185792123750821270
+    second: directions copy1_77
+  - first:
+      213: 4925213041056230505
+    second: directions copy1_78
+  - first:
+      213: -1737693117639948194
+    second: directions copy1_79
+  - first:
+      213: 583758143818028
+    second: directions copy1_80
+  - first:
+      213: -730802914098068209
+    second: directions copy1_81
+  - first:
+      213: -20436568040329405
+    second: directions copy1_82
+  - first:
+      213: 8349511626653873566
+    second: directions copy1_83
+  - first:
+      213: 472590664371976155
+    second: directions copy1_84
+  - first:
+      213: 8519470755154915876
+    second: directions copy1_85
+  - first:
+      213: 4080356624754544522
+    second: directions copy1_86
+  - first:
+      213: -3045808313998605390
+    second: directions copy1_87
+  - first:
+      213: 5255747757930238540
+    second: directions copy1_88
+  - first:
+      213: -4378896651623271769
+    second: directions copy1_89
+  - first:
+      213: -6709909850958947277
+    second: directions copy1_90
+  - first:
+      213: -1009406215835893261
+    second: directions copy1_91
+  - first:
+      213: 5715120442880958855
+    second: directions copy1_92
+  - first:
+      213: 6989230537957027879
+    second: directions copy1_93
+  - first:
+      213: 1682847350202341790
+    second: directions copy1_94
+  - first:
+      213: -1900821320599310303
+    second: directions copy1_95
+  - first:
+      213: -725458950603962567
+    second: directions copy1_96
+  - first:
+      213: 978223070821369941
+    second: directions copy1_97
+  - first:
+      213: 993545073538391838
+    second: directions copy1_98
+  - first:
+      213: 8691681046805124150
+    second: directions copy1_99
+  - first:
+      213: -84907869391889381
+    second: directions copy1_100
+  - first:
+      213: -7744532045353308559
+    second: directions copy1_101
+  - first:
+      213: -3798739071201338332
+    second: directions copy1_102
+  - first:
+      213: 761387053160974391
+    second: directions copy1_103
+  - first:
+      213: -4992968838684726113
+    second: directions copy1_104
+  - first:
+      213: 4364540292481069514
+    second: directions copy1_105
+  - first:
+      213: 1617158380123217236
+    second: directions copy1_106
+  - first:
+      213: 6986827456451931240
+    second: directions copy1_107
+  - first:
+      213: 2085257591817904379
+    second: directions copy1_108
+  - first:
+      213: 4705378906517418533
+    second: directions copy1_109
+  - first:
+      213: 3483564953278164175
+    second: directions copy1_110
+  - first:
+      213: 4487107228220994487
+    second: directions copy1_111
+  - first:
+      213: -8783707724472293808
+    second: directions copy1_112
+  - first:
+      213: -8339838962773208404
+    second: directions copy1_113
+  - first:
+      213: -7626433008749228734
+    second: directions copy1_114
+  - first:
+      213: -871329215817669578
+    second: directions copy1_115
+  - first:
+      213: 5952798845273489460
+    second: directions copy1_116
+  - first:
+      213: -2623986425046149363
+    second: directions copy1_117
+  - first:
+      213: 3619683411716957401
+    second: directions copy1_118
+  - first:
+      213: -408846469545335375
+    second: directions copy1_119
+  - first:
+      213: 6942485660247573320
+    second: directions copy1_120
+  - first:
+      213: -2712523001439633249
+    second: directions copy1_121
+  - first:
+      213: 3230679826204702791
+    second: directions copy1_122
+  - first:
+      213: -8076225986103765845
+    second: directions copy1_123
+  - first:
+      213: 1012832647046036933
+    second: directions copy1_124
+  - first:
+      213: 4498435877345760849
+    second: directions copy1_125
+  - first:
+      213: 3600032697548224576
+    second: directions copy1_126
+  - first:
+      213: 8848972828896814257
+    second: directions copy1_127
+  - first:
+      213: 3516662427796154829
+    second: directions copy1_128
+  - first:
+      213: -1517430770024914034
+    second: directions copy1_129
+  - first:
+      213: 8889142076291632152
+    second: directions copy1_130
+  - first:
+      213: 2757184340732356536
+    second: directions copy1_131
+  - first:
+      213: 8397070739241014272
+    second: directions copy1_132
+  - first:
+      213: -4906383792426666784
+    second: directions copy1_133
+  - first:
+      213: 4611416926975742742
+    second: directions copy1_134
+  - first:
+      213: 7766140477064800582
+    second: directions copy1_135
+  - first:
+      213: 5236384320575513001
+    second: directions copy1_136
+  - first:
+      213: 8426237623947270777
+    second: directions copy1_137
+  - first:
+      213: 2169445454272787650
+    second: directions copy1_138
+  - first:
+      213: -5139007787275309339
+    second: directions copy1_139
+  - first:
+      213: -3095327647256687730
+    second: directions copy1_140
+  - first:
+      213: 8541938450794602490
+    second: directions copy1_141
+  - first:
+      213: 2213492654979899016
+    second: directions copy1_142
+  - first:
+      213: -17079427398401085
+    second: directions copy1_143
+  - first:
+      213: 923097801218015666
+    second: directions copy1_144
+  - first:
+      213: -4593207393714891914
+    second: directions copy1_145
+  - first:
+      213: -1335760958808507110
+    second: directions copy1_146
+  - first:
+      213: -2842404836828050659
+    second: directions copy1_147
+  - first:
+      213: -6400704866327958076
+    second: directions copy1_148
+  - first:
+      213: -8974206140194549646
+    second: directions copy1_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: directions copy1_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 598
+        width: 298
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194b6268cb18d600800000000000000
+      internalID: 493174706655676691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 566
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e47a01c843fbb0800000000000000
+      internalID: -4903495575335016166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 552
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830a5a5e3a7bd350800000000000000
+      internalID: 6042557733270061956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 558
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f1a677068015540800000000000000
+      internalID: 4994782672143916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 563
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf4559162c21aa10800000000000000
+      internalID: 1918863458381942746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 552
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ba7234c63e2b50800000000000000
+      internalID: 6570249122668525751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 558
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf41c1b952fc5180800000000000000
+      internalID: -9125152277911220257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 549
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6703877b7ca86c390800000000000000
+      internalID: -7798393114364202890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 551
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb853e74b2b4f80800000000000000
+      internalID: -8121349915275641611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 572
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75593707af76623c0800000000000000
+      internalID: -4384702861872491177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 557
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35847a6c5bce05170800000000000000
+      internalID: 8165286389888796755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 567
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5076dc4e56c1ab0800000000000000
+      internalID: -5036038249934027301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 577
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1e5cd0ea84d4e0800000000000000
+      internalID: -1957787239624860500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8fe3472cf599250800000000000000
+      internalID: 5951893671325399252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 507
+        width: 355
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c297bf2b8d8a63b0800000000000000
+      internalID: -5518442764448591162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 451
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eec6055f2ecb680800000000000000
+      internalID: -8737859633761423820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 437
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ecd532e5b2a62a0800000000000000
+      internalID: -6743529808713626002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 465
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22993d6a0a3981400800000000000000
+      internalID: 295148093795703074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 477
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52971372c610fd250800000000000000
+      internalID: 5971493194942216485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 478
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6681358798e76a480800000000000000
+      internalID: -8888277685674764186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 473
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd283b529c3774a0800000000000000
+      internalID: -6595736529967501875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 462
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73cf377ff04ed5e0800000000000000
+      internalID: -1882996128232782977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 469
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1129d8ca0acdd1a0800000000000000
+      internalID: -6783043316081942241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 466
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c361991ae952240800000000000000
+      internalID: 4766390197536832537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 460
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfdfe63db262a0c0800000000000000
+      internalID: -4565978507390230584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 451
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d03ec45ce9c09f0800000000000000
+      internalID: -500850888309273277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 464
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be79385c5933d4070800000000000000
+      internalID: 8092180823811528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 451
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d06160ee4223d30800000000000000
+      internalID: 4409627589872061721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 460
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6679db7fa624d17f0800000000000000
+      internalID: -640282544826378394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 466
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410869e53e233eb30800000000000000
+      internalID: 4315348820076953620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 464
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2422796c8a03db430800000000000000
+      internalID: 3800247162014999106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 463
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43f674172836e40800000000000000
+      internalID: 5648501780694119606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 471
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f9c7533755b030800000000000000
+      internalID: 3509807362632971692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 487
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f848e7d87ee5c340800000000000000
+      internalID: 4883571573738981620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 404
+        width: 308
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05a44897620e460800000000000000
+      internalID: 7268852101928341726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 370
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9cbe321cba7c90800000000000000
+      internalID: -7171212670086112259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 376
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7660813841220460800000000000000
+      internalID: 7206358947698075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 381
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51670dcaeea63fbe0800000000000000
+      internalID: -1444693482121693675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 369
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c7cfdf72abbc50800000000000000
+      internalID: 6682113142233221621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 391
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e6cad2a2999bb0800000000000000
+      internalID: -4928747089027472457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3cbc8dcfa6423d0800000000000000
+      internalID: -3232340998343638048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 379
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa8eb7c99752c950800000000000000
+      internalID: 6467828332850219775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 363
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c97cba3994576150800000000000000
+      internalID: 5865750056765520322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 392
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43698dea372139da0800000000000000
+      internalID: -5939383195507583436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 379
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce6499fb532a590800000000000000
+      internalID: -7664504518804575111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 372
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e6126b74092b120800000000000000
+      internalID: 2428161786778840582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 381
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc303f1fc31e5de70800000000000000
+      internalID: 9139458670691812299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 374
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef136788243f4310800000000000000
+      internalID: 1391388158555529191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_48
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 373
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe09c7b2af16f360800000000000000
+      internalID: 7202979437754257084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 376
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5d03f37a28d090800000000000000
+      internalID: -8009605259791081943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b06b5af901a9b0800000000000000
+      internalID: -5070760734562929430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 331
+        width: 375
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e162d49fab80e2b0800000000000000
+      internalID: -5557288353942838811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 303
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9c8b3dffb86df0800000000000000
+      internalID: -186688290189173484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_53
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa0fe98fb813570800000000000000
+      internalID: 8444684676231113442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 297
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ab883cc8c21ab0800000000000000
+      internalID: -5038744253626605189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 291
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3012d3c6da266a0800000000000000
+      internalID: -6457408235302222862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 296
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a3191a3f96521a0800000000000000
+      internalID: -6834940364356240779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 306
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c4c87b1c7e69820800000000000000
+      internalID: 2924779827217845392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 309
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c3fb92918a8f00800000000000000
+      internalID: 1119849924036643210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 303
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38af253f50915910800000000000000
+      internalID: 1824398062650370109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 301
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9003f67860fcaeb50800000000000000
+      internalID: 6623333828950700041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 300
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ca69cbfc3b3390800000000000000
+      internalID: -7837603674394540920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 305
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03dd878933412750800000000000000
+      internalID: 6278373269897597708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 300
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16819273d7676e0800000000000000
+      internalID: -1840145721868131933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 304
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cfab14bf77b2c50800000000000000
+      internalID: 6641533996511198357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 301
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c424d5586792bca50800000000000000
+      internalID: 6542368472706138700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 312
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5249626f943f4460800000000000000
+      internalID: 7228053786108445277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46144e401e1cd60800000000000000
+      internalID: 7908849831764911322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 290
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c2c5e820ddc3d0800000000000000
+      internalID: -3184660487409057075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 205
+        width: 366
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1ff3b3fc74ef30800000000000000
+      internalID: 4603942105218227543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_70
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7efcc80c45e95a50800000000000000
+      internalID: 6510486851068690045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 302
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5594ee3575d6dc50800000000000000
+      internalID: 6689768996048508253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_72
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 310
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19828b72916237850800000000000000
+      internalID: 6373479787141802129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 301
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24222b6f4e58890800000000000000
+      internalID: -7456301859840310584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 303
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3491bd25ab2638a30800000000000000
+      internalID: 4216322228542445891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 305
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af5cd4730471400800000000000000
+      internalID: 294774906888256070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 300
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ecd801c5a84750800000000000000
+      internalID: 6289459128118862735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dafb4a44d7a7f70800000000000000
+      internalID: 9185792123750821270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 297
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c274b7a2fd95440800000000000000
+      internalID: 4925213041056230505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 307
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580e62f05972e7e0800000000000000
+      internalID: -1737693117639948194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 308
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c290cc8cce2120000800000000000000
+      internalID: 583758143818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 310
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f054d502f9aabd5f0800000000000000
+      internalID: -730802914098068209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 300
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2785bc0567bff0800000000000000
+      internalID: -20436568040329405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95b2ba369c6fd370800000000000000
+      internalID: 8349511626653873566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 314
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7be0294bafe8600800000000000000
+      internalID: 472590664371976155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 299
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4227653838d3b3670800000000000000
+      internalID: 8519470755154915876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 297
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f08674bb650a830800000000000000
+      internalID: 4080356624754544522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_87
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 296
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38e2ec97d1bb5d0800000000000000
+      internalID: -3045808313998605390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 292
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42dc7c5dba20f840800000000000000
+      internalID: 5255747757930238540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_89
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 308
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f8db12b80b33c0800000000000000
+      internalID: -4378896651623271769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_90
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 303
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c92ba8a8c91e2a0800000000000000
+      internalID: -6709909850958947277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c70f056eddf1f0800000000000000
+      internalID: -1009406215835893261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 294
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812e7643cf205f40800000000000000
+      internalID: 5715120442880958855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 305
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720bd3cc42cbef060800000000000000
+      internalID: 6989230537957027879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 308
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e999408bfbcaa5710800000000000000
+      internalID: 1682847350202341790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_95
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 311
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207034741dee95e0800000000000000
+      internalID: -1900821320599310303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 299
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9378f169de6aee5f0800000000000000
+      internalID: -725458950603962567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_97
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 308
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558466733b8539d00800000000000000
+      internalID: 978223070821369941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_98
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 298
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f5898faf7c9cd00800000000000000
+      internalID: 993545073538391838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63490df8cdd0f9870800000000000000
+      internalID: 8691681046805124150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 305
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd24e1eb852def0800000000000000
+      internalID: -84907869391889381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 306
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e26151325e58490800000000000000
+      internalID: -7744532045353308559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 306
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c95aaf0fa284bc0800000000000000
+      internalID: -3798739071201338332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_103
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 172
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738cd38ad7df09a00800000000000000
+      internalID: 761387053160974391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_104
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c2a9b8b4965bab0800000000000000
+      internalID: -4992968838684726113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_105
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1b63d8546f19c30800000000000000
+      internalID: 4364540292481069514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_106
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5ac88afc417610800000000000000
+      internalID: 1617158380123217236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 174
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c63c8cd8236f060800000000000000
+      internalID: 6986827456451931240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_108
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 174
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02e794bb250fc10800000000000000
+      internalID: 2085257591817904379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_109
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 177
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52236907f2ddc4140800000000000000
+      internalID: 4705378906517418533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 183
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc25284edb185030800000000000000
+      internalID: 3483564953278164175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_111
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 182
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b333371048654e30800000000000000
+      internalID: 4487107228220994487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05669f7dc500a1680800000000000000
+      internalID: -8783707724472293808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_113
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 180
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d0f356a0f24c80800000000000000
+      internalID: -8339838962773208404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_114
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d403ac597792690800000000000000
+      internalID: -7626433008749228734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 183
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634a4c8d1ba68e3f0800000000000000
+      internalID: -871329215817669578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_116
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c1efa2079c9250800000000000000
+      internalID: 5952798845273489460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_117
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 184
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075da7bf3ab59bd0800000000000000
+      internalID: -2623986425046149363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_118
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 181
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d463c292e2bb3230800000000000000
+      internalID: 3619683411716957401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 182
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e3175d4c735af0800000000000000
+      internalID: -408846469545335375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_120
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 183
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843cc45dce9a85060800000000000000
+      internalID: 6942485660247573320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_121
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 178
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904d16a3be2b5ad0800000000000000
+      internalID: -2712523001439633249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 185
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748b3ff5f2ea5dc20800000000000000
+      internalID: 3230679826204702791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_123
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 180
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4918c514b7bef80800000000000000
+      internalID: -8076225986103765845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_124
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf8102ded4e0e00800000000000000
+      internalID: 1012832647046036933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 184
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561112c897ad6e30800000000000000
+      internalID: 4498435877345760849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_126
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 180
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04837252aa2e5f130800000000000000
+      internalID: 3600032697548224576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_127
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 184
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46a7d67edddca70800000000000000
+      internalID: 8848972828896814257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_128
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 184
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a0c398d1bdc030800000000000000
+      internalID: 3516662427796154829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_129
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 188
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83ea6d11c001fae0800000000000000
+      internalID: -1517430770024914034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 172
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c47572f939c5b70800000000000000
+      internalID: 8889142076291632152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b72f99bc8c734620800000000000000
+      internalID: 2757184340732356536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_132
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 145
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00499460953688470800000000000000
+      internalID: 8397070739241014272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_133
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4bca89fe509ebb0800000000000000
+      internalID: -4906383792426666784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_134
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613dc93434b0fff30800000000000000
+      internalID: 4611416926975742742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_135
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ea3bfd9fd6cb60800000000000000
+      internalID: 7766140477064800582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_136
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12457cbcf5ba840800000000000000
+      internalID: 5236384320575513001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 38
+        width: 237
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9860997200f470800000000000000
+      internalID: 8426237623947270777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4f38d752b6b1e10800000000000000
+      internalID: 2169445454272787650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_139
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2d7525a39ea8b0800000000000000
+      internalID: -5139007787275309339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_140
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 10
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bc1d197ef2b05d0800000000000000
+      internalID: -3095327647256687730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 11
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affdcdc83cf0b8670800000000000000
+      internalID: 8541938450794602490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_142
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e530597d7e7be10800000000000000
+      internalID: 2213492654979899016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_143
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 8
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c383fce95253cff0800000000000000
+      internalID: -17079427398401085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_144
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 11
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b14b863f808fcc00800000000000000
+      internalID: 923097801218015666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_145
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 10
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6731de51636a140c0800000000000000
+      internalID: -4593207393714891914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_146
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 144
+        width: 136
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d32613c7c667de0800000000000000
+      internalID: -1335760958808507110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_147
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 81
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b03015cdfbd88d0800000000000000
+      internalID: -2842404836828050659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd686226d02c27a0800000000000000
+      internalID: -6400704866327958076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_149
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 9
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27013981017357380800000000000000
+      internalID: -8974206140194549646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directions copy1_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 307
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80004f5dd04ac3944820663b5e110315
+      internalID: 724186756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe70287bdd956394d8c07f6b34b7d6dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      directions copy1_0: 493174706655676691
+      directions copy1_1: -4903495575335016166
+      directions copy1_10: 8165286389888796755
+      directions copy1_100: -84907869391889381
+      directions copy1_101: -7744532045353308559
+      directions copy1_102: -3798739071201338332
+      directions copy1_103: 761387053160974391
+      directions copy1_104: -4992968838684726113
+      directions copy1_105: 4364540292481069514
+      directions copy1_106: 1617158380123217236
+      directions copy1_107: 6986827456451931240
+      directions copy1_108: 2085257591817904379
+      directions copy1_109: 4705378906517418533
+      directions copy1_11: -5036038249934027301
+      directions copy1_110: 3483564953278164175
+      directions copy1_111: 4487107228220994487
+      directions copy1_112: -8783707724472293808
+      directions copy1_113: -8339838962773208404
+      directions copy1_114: -7626433008749228734
+      directions copy1_115: -871329215817669578
+      directions copy1_116: 5952798845273489460
+      directions copy1_117: -2623986425046149363
+      directions copy1_118: 3619683411716957401
+      directions copy1_119: -408846469545335375
+      directions copy1_12: -1957787239624860500
+      directions copy1_120: 6942485660247573320
+      directions copy1_121: -2712523001439633249
+      directions copy1_122: 3230679826204702791
+      directions copy1_123: -8076225986103765845
+      directions copy1_124: 1012832647046036933
+      directions copy1_125: 4498435877345760849
+      directions copy1_126: 3600032697548224576
+      directions copy1_127: 8848972828896814257
+      directions copy1_128: 3516662427796154829
+      directions copy1_129: -1517430770024914034
+      directions copy1_13: 5951893671325399252
+      directions copy1_130: 8889142076291632152
+      directions copy1_131: 2757184340732356536
+      directions copy1_132: 8397070739241014272
+      directions copy1_133: -4906383792426666784
+      directions copy1_134: 4611416926975742742
+      directions copy1_135: 7766140477064800582
+      directions copy1_136: 5236384320575513001
+      directions copy1_137: 8426237623947270777
+      directions copy1_138: 2169445454272787650
+      directions copy1_139: -5139007787275309339
+      directions copy1_14: -5518442764448591162
+      directions copy1_140: -3095327647256687730
+      directions copy1_141: 8541938450794602490
+      directions copy1_142: 2213492654979899016
+      directions copy1_143: -17079427398401085
+      directions copy1_144: 923097801218015666
+      directions copy1_145: -4593207393714891914
+      directions copy1_146: -1335760958808507110
+      directions copy1_147: -2842404836828050659
+      directions copy1_148: -6400704866327958076
+      directions copy1_149: -8974206140194549646
+      directions copy1_15: -8737859633761423820
+      directions copy1_150: 724186756
+      directions copy1_16: -6743529808713626002
+      directions copy1_17: 295148093795703074
+      directions copy1_18: 5971493194942216485
+      directions copy1_19: -8888277685674764186
+      directions copy1_2: 6042557733270061956
+      directions copy1_20: -6595736529967501875
+      directions copy1_21: -1882996128232782977
+      directions copy1_22: -6783043316081942241
+      directions copy1_23: 4766390197536832537
+      directions copy1_24: -4565978507390230584
+      directions copy1_25: -500850888309273277
+      directions copy1_26: 8092180823811528683
+      directions copy1_27: 4409627589872061721
+      directions copy1_28: -640282544826378394
+      directions copy1_29: 4315348820076953620
+      directions copy1_3: 4994782672143916930
+      directions copy1_30: 3800247162014999106
+      directions copy1_31: 5648501780694119606
+      directions copy1_32: 3509807362632971692
+      directions copy1_33: 4883571573738981620
+      directions copy1_34: 7268852101928341726
+      directions copy1_35: -7171212670086112259
+      directions copy1_36: 7206358947698075259
+      directions copy1_37: -1444693482121693675
+      directions copy1_38: 6682113142233221621
+      directions copy1_39: -4928747089027472457
+      directions copy1_4: 1918863458381942746
+      directions copy1_40: -3232340998343638048
+      directions copy1_41: 6467828332850219775
+      directions copy1_42: 5865750056765520322
+      directions copy1_43: -5939383195507583436
+      directions copy1_44: -7664504518804575111
+      directions copy1_45: 2428161786778840582
+      directions copy1_46: 9139458670691812299
+      directions copy1_47: 1391388158555529191
+      directions copy1_48: 7202979437754257084
+      directions copy1_49: -8009605259791081943
+      directions copy1_5: 6570249122668525751
+      directions copy1_50: -5070760734562929430
+      directions copy1_51: -5557288353942838811
+      directions copy1_52: -186688290189173484
+      directions copy1_53: 8444684676231113442
+      directions copy1_54: -5038744253626605189
+      directions copy1_55: -6457408235302222862
+      directions copy1_56: -6834940364356240779
+      directions copy1_57: 2924779827217845392
+      directions copy1_58: 1119849924036643210
+      directions copy1_59: 1824398062650370109
+      directions copy1_6: -9125152277911220257
+      directions copy1_60: 6623333828950700041
+      directions copy1_61: -7837603674394540920
+      directions copy1_62: 6278373269897597708
+      directions copy1_63: -1840145721868131933
+      directions copy1_64: 6641533996511198357
+      directions copy1_65: 6542368472706138700
+      directions copy1_66: 7228053786108445277
+      directions copy1_67: 7908849831764911322
+      directions copy1_68: -3184660487409057075
+      directions copy1_69: 4603942105218227543
+      directions copy1_7: -7798393114364202890
+      directions copy1_70: 6510486851068690045
+      directions copy1_71: 6689768996048508253
+      directions copy1_72: 6373479787141802129
+      directions copy1_73: -7456301859840310584
+      directions copy1_74: 4216322228542445891
+      directions copy1_75: 294774906888256070
+      directions copy1_76: 6289459128118862735
+      directions copy1_77: 9185792123750821270
+      directions copy1_78: 4925213041056230505
+      directions copy1_79: -1737693117639948194
+      directions copy1_8: -8121349915275641611
+      directions copy1_80: 583758143818028
+      directions copy1_81: -730802914098068209
+      directions copy1_82: -20436568040329405
+      directions copy1_83: 8349511626653873566
+      directions copy1_84: 472590664371976155
+      directions copy1_85: 8519470755154915876
+      directions copy1_86: 4080356624754544522
+      directions copy1_87: -3045808313998605390
+      directions copy1_88: 5255747757930238540
+      directions copy1_89: -4378896651623271769
+      directions copy1_9: -4384702861872491177
+      directions copy1_90: -6709909850958947277
+      directions copy1_91: -1009406215835893261
+      directions copy1_92: 5715120442880958855
+      directions copy1_93: 6989230537957027879
+      directions copy1_94: 1682847350202341790
+      directions copy1_95: -1900821320599310303
+      directions copy1_96: -725458950603962567
+      directions copy1_97: 978223070821369941
+      directions copy1_98: 993545073538391838
+      directions copy1_99: 8691681046805124150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
