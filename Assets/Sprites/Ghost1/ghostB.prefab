@@ -89,7 +89,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 5279649024141667167, guid: 4bc1e0c69db60fd43a4e94b54b7c4af7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.5254902}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.16, y: 0.28}
@@ -268,10 +268,10 @@ MonoBehaviour:
   damage: 1
   attackSpeed: 0.5
   cooldown: 0.5
-  attackInput: 323
+  attackInput: 0
   attackOffset: {fileID: 0}
   myAnim: {fileID: 0}
-  projectile: {fileID: 0}
+  projectile: {fileID: 7728412902767994620, guid: 0db777469c91a34428baf975c0a088a8, type: 3}
   projectileSpeed: 5
   liveTime: 10
   infiniteAmmo: 1
