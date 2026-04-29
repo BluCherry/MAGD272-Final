@@ -61,7 +61,8 @@ public class ChangeCharacter : MonoBehaviour
     {
         if (Input.GetKeyDown(keycode) && triggerEntered == true)
         {
-            if (active == 0)
+            var v = player.GetComponent<activePlayer>().value;
+            if (v == 0)
             {
                 ChooseCharacter(1);
             }
@@ -69,6 +70,7 @@ public class ChangeCharacter : MonoBehaviour
             {
                 ChooseCharacter(0);
             }
+            player.SendMessage("updateValue");
         }
     }
 

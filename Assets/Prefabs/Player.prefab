@@ -114,6 +114,7 @@ GameObject:
   - component: {fileID: 8392392449080045328}
   - component: {fileID: 2075928512243514095}
   - component: {fileID: 7349600849503963656}
+  - component: {fileID: 7542429074220124681}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -444,6 +445,19 @@ MonoBehaviour:
   TargetObject: {fileID: 0}
   DisableAtStart: 0
   completed: 0
+--- !u!114 &7542429074220124681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9114412990421456807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58094625bc516eb4a826022fe7135985, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::activePlayer
+  value: 0
 --- !u!1001 &4403703672635739697
 PrefabInstance:
   m_ObjectHideFlags: 0
