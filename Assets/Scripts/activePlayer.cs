@@ -10,7 +10,7 @@ public class activePlayer : MonoBehaviour
         value = 0;
     }
 
-    void updateValue()
+    public void updateValue()
     {
         if (value == 0)
         {

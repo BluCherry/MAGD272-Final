@@ -70,7 +70,7 @@ public class ChangeCharacter : MonoBehaviour
             {
                 ChooseCharacter(0);
             }
-            player.SendMessage("updateValue");
+            player.SendMessage(nameof(activePlayer.updateValue));
         }
     }
 
