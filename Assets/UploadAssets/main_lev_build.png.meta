@@ -1460,10 +1460,10 @@ TextureImporter:
       name: main_lev_build_33
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 1055
-        width: 18
-        height: 98
+        x: 1392
+        y: 1056
+        width: 16
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4606,10 +4606,10 @@ TextureImporter:
       name: main_lev_build_176
       rect:
         serializedVersion: 2
-        x: 1407
-        y: 239
-        width: 18
-        height: 98
+        x: 1408
+        y: 240
+        width: 16
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
