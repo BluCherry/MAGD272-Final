@@ -1,20 +1,7 @@
 using Mono.Cecil.Cil;
 using UnityEngine;
 
-public class ReadString : MonoBehaviour
-{
-    private static string attempt;
-
-    public static void ReadStringInput(string input)
-    {
-        attempt = input;
-        Debug.Log(attempt);
-        var mc = new CheckCode();
-        mc.check(attempt);
-    }
-}
-
-public class CheckCode
+public class CheckCode : MonoBehaviour
 {
     private string code = "hdk";
     [Header("Enter Gate Object")]
@@ -22,12 +9,18 @@ public class CheckCode
     public bool oppositeState;
     public bool active;
 
+    public void Start()
+    {
+        var goal = target.GetComponent<DestinationGoal>().enabled;
+        goal = false;
+    }
+
     public void check(string a)
     {
-        if (code == a)
+        if (a.CompareTo(code) == 0)
         {
-            target.SetActive(oppositeState ? !active : active);
-            SceneController.sceneController?.loadMainMenu();
+            //target.SetActive(oppositeState ? !active : active);
+            target.GetComponent<Interactable>().ChangeSprite();
         }
     }
 }
