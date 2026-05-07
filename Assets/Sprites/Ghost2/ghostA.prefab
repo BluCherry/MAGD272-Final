@@ -13,12 +13,12 @@ GameObject:
   - component: {fileID: 1225224982927510381}
   - component: {fileID: 4311124326681320437}
   - component: {fileID: 7097678771076150333}
-  - component: {fileID: -8970828534830753002}
   - component: {fileID: -5196029953172712000}
   - component: {fileID: 1440300948130467154}
   - component: {fileID: 3339193322280725208}
   - component: {fileID: 4330220800135873873}
   - component: {fileID: 7537087810419331281}
+  - component: {fileID: 6343053060003465974}
   m_Layer: 9
   m_Name: ghostA
   m_TagString: Untagged
@@ -194,29 +194,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &-8970828534830753002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1095730381127317092}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c6e7e8611f2e1024b9ec9c4004497e29, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AnimationManager
-  doIFlip: 0
-  facingRight: 0
-  idle: {fileID: 7400000, guid: b23946037607748449eb0dfa2597a2cb, type: 2}
-  moveSide: {fileID: 0}
-  moveUp: {fileID: 0}
-  moveDown: {fileID: 0}
-  attack: {fileID: 7400000, guid: a8683f03b8b73e94f8d1ae3d0919107e, type: 2}
-  death: {fileID: 0}
-  action1: {fileID: 0}
-  action2: {fileID: 0}
-  action3: {fileID: 0}
 --- !u!114 &-5196029953172712000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -301,3 +278,26 @@ MonoBehaviour:
   animators:
   - {fileID: 7097678771076150333}
   <speed>k__BackingField: 1
+--- !u!114 &6343053060003465974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095730381127317092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6e7e8611f2e1024b9ec9c4004497e29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationManager
+  doIFlip: 0
+  facingRight: 0
+  idle: {fileID: 0}
+  moveSide: {fileID: 0}
+  moveUp: {fileID: 0}
+  moveDown: {fileID: 0}
+  attack: {fileID: 0}
+  death: {fileID: 0}
+  action1: {fileID: 0}
+  action2: {fileID: 0}
+  action3: {fileID: 0}

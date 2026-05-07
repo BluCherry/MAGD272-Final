@@ -115,6 +115,8 @@ GameObject:
   - component: {fileID: 2075928512243514095}
   - component: {fileID: 7349600849503963656}
   - component: {fileID: 7542429074220124681}
+  - component: {fileID: 5126929841084326043}
+  - component: {fileID: 905451737083021775}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -458,6 +460,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::activePlayer
   value: 0
+--- !u!114 &5126929841084326043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9114412990421456807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34167d0599eb2534d8921f224cade868, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+--- !u!114 &905451737083021775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9114412990421456807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f12f2bafc6714e458639c044af08973, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  spirit: {fileID: 9090064097555290177}
 --- !u!1001 &4403703672635739697
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -518,5 +545,10 @@ PrefabInstance:
 --- !u!4 &5672822722956023416 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8333052518100080713, guid: 7660f8919df162047bf62e001ae5695e, type: 3}
+  m_PrefabInstance: {fileID: 4403703672635739697}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9090064097555290177 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4844602207629858416, guid: 7660f8919df162047bf62e001ae5695e, type: 3}
   m_PrefabInstance: {fileID: 4403703672635739697}
   m_PrefabAsset: {fileID: 0}
