@@ -8,8 +8,6 @@ public class ReadString : MonoBehaviour
     public void Start()
     {
         check = GetComponent<CheckCode>();
-        var goal = GetComponent<DestinationGoal>().enabled;
-        goal = false;
     }
 
     public void ReadStringInput(string input)
