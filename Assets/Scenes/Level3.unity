@@ -3421,7 +3421,7 @@ BoxCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.0004994869}
   m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
+    border: {x: 0.02, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.33, y: 0.8}
     newSize: {x: 0.33, y: 5.2184772}
@@ -8481,7 +8481,7 @@ GameObject:
   - component: {fileID: 1588382129}
   - component: {fileID: 1588382128}
   - component: {fileID: 1588382130}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ghostKing_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8555,7 +8555,7 @@ Transform:
   m_GameObject: {fileID: 1588382120}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.558756, y: -24.2, z: 0}
+  m_LocalPosition: {x: 24.8, y: -23.4, z: 0}
   m_LocalScale: {x: 8.4767, y: 8.4767, z: 8.4767}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8697,7 +8697,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ShootAllDirection
   damage: 1
   attackSpeed: 0.5
-  cooldown: 0.5
+  cooldown: 2
   attackInput: 0
   attackOffset: {fileID: 0}
   myAnim: {fileID: 0}
@@ -10395,7 +10395,7 @@ MonoBehaviour:
   Damping: 0.12
   SlowingDistance: 5
   OversizeWindow:
-    Enabled: 1
+    Enabled: 0
     MaxWindowSize: 0
     Padding: 0
   m_LegacyMaxWindowSize: -2
@@ -10585,7 +10585,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1833457321
 Transform:
   m_ObjectHideFlags: 0
@@ -10829,10 +10829,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5190811782911796167, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9090064097555290177, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
-      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9114412990421456807, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}

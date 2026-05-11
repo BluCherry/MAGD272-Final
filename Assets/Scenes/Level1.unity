@@ -3857,7 +3857,7 @@ MonoBehaviour:
   Damping: 0.12
   SlowingDistance: 5
   OversizeWindow:
-    Enabled: 1
+    Enabled: 0
     MaxWindowSize: 0
     Padding: 0
   m_LegacyMaxWindowSize: -2
