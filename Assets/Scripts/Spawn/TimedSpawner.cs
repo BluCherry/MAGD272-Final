@@ -32,7 +32,7 @@ public class TimedSpawner : MonoBehaviour
     AudioSource audioSource;
      
 
-    private void Start()
+    private void OnEnable()
     {
         if (BeginTimerAtStart) currentTime = SpawnInterval;
         audioSource = GetComponent<AudioSource>();
