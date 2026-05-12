@@ -2163,62 +2163,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 9114412990421456807, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
   m_PrefabInstance: {fileID: 2026106200}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &354544407
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 354544390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cdd7ef20b6f616f4eb0281a1d0b2b0d5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CollectibleManager
-  coinsCollected: 0
-  showCoins: 0
-  coinsCollectedGoal: 0
-  coinGoalAmount: 0
-  ammoCollected: 0
-  showAmmo: 0
-  coinCount: {fileID: 0}
-  ammoCount: {fileID: 0}
-  keyCollected: 0
-  keyImage: {fileID: 0}
-  showKey: 0
-  coinSound: {fileID: 0}
-  ammoSound: {fileID: 0}
-  healthSound: {fileID: 0}
-  keySound: {fileID: 0}
-  soundVolume: 1
-  playSound: 0
-  goalSound: {fileID: 0}
-  volume: 1
-  changeScene: 0
-  sceneChangeDelay: 0
-  sceneName: 
-  enableAnObject: 0
-  TargetObject: {fileID: 0}
-  DisableAtStart: 0
-  completed: 0
---- !u!114 &354544424
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 354544390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1cf9aa61981ec1148ab37604c2baad13, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Respawn
-  deathScreen: {fileID: 492026304}
-  gameOverScene: 0
-  automaticRespawn: 0
-  respawnTime: 0
-  reloadScene: 1
-  stopTime: 1
 --- !u!1001 &355761883
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9149,6 +9093,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1598114634270235083, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
+      propertyPath: deathScreen
+      value: 
+      objectReference: {fileID: 492026304}
     - target: {fileID: 5190811782911796167, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.08
@@ -9200,13 +9148,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 9114412990421456807, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 354544407}
-    - targetCorrespondingSourceObject: {fileID: 9114412990421456807, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 354544424}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc29f87e8adea3f41ba152aeec7b687c, type: 3}
 --- !u!1 &2042484951
 GameObject:
