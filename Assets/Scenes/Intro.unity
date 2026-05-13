@@ -2123,7 +2123,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0.000000014777407, y: -0.0000000378482, z: -5.5929824e-16, w: 1}
-  m_LocalPosition: {x: -5.1227436, y: -3.1563501, z: -10}
+  m_LocalPosition: {x: -5.1212263, y: -3.15616, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2617,6 +2617,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1657134532}
+    - target: {fileID: 4330220800135873873, guid: 548c786a3741c074081aff20da1d64da, type: 3}
+      propertyPath: agroDistance
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7995,6 +7999,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1657134532}
+    - target: {fileID: 4330220800135873873, guid: 548c786a3741c074081aff20da1d64da, type: 3}
+      propertyPath: agroDistance
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

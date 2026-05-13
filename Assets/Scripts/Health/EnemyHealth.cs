@@ -97,11 +97,11 @@ public class EnemyHealth : Health
     {
         base.Awake();
 
-        if (autosetLayerToEnemy)
-        {
-            gameObject.layer = LayerMask.NameToLayer("Enemy");
-            // Debug.Log("Set Layer to Enemy");
-        }
+        //if (autosetLayerToEnemy)
+        //{
+        //    gameObject.layer = LayerMask.NameToLayer("Enemy");
+        //    // Debug.Log("Set Layer to Enemy");
+        //}
         
         if (healthBar)
         {

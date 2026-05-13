@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 1225224982927510381}
   - component: {fileID: 4311124326681320437}
   - component: {fileID: 7097678771076150333}
-  - component: {fileID: -5196029953172712000}
   - component: {fileID: 1440300948130467154}
   - component: {fileID: 3339193322280725208}
   - component: {fileID: 4330220800135873873}
@@ -194,19 +193,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &-5196029953172712000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1095730381127317092}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e37402b8a26ff634b952eca607f34fa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttackManager
-  attacksEnabled: 1
 --- !u!114 &1440300948130467154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,7 +216,7 @@ MonoBehaviour:
   healthBar: 0
   timeToDie: 0
   deathCountsTowardGoal: 0
-  autosetLayerToEnemy: 1
+  autosetLayerToEnemy: 0
 --- !u!114 &3339193322280725208
 MonoBehaviour:
   m_ObjectHideFlags: 0

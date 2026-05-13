@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 6979237826883255832}
   - component: {fileID: 2623115081812572440}
   - component: {fileID: 6473013406903164665}
-  - component: {fileID: 8493159604364952755}
   - component: {fileID: 3021610674369516340}
   - component: {fileID: 3785730669935737986}
   m_Layer: 9
@@ -201,19 +200,6 @@ MonoBehaviour:
   timeToDie: 0
   deathCountsTowardGoal: 0
   autosetLayerToEnemy: 1
---- !u!114 &8493159604364952755
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8098551606944414469}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e37402b8a26ff634b952eca607f34fa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttackManager
-  attacksEnabled: 1
 --- !u!114 &3021610674369516340
 MonoBehaviour:
   m_ObjectHideFlags: 0
