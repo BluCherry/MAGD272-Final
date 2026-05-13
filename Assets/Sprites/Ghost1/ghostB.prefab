@@ -219,7 +219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShootAllDirection
   damage: 1
-  attackSpeed: 2
+  attackSpeed: 5
   cooldown: 5
   attackInput: 0
   attackOffset: {fileID: 8451945408797758713}

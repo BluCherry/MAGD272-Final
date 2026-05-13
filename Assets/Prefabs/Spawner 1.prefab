@@ -144,9 +144,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TimedSpawner
   BeginTimerAtStart: 1
   ObjectToSpawn: {fileID: 1095730381127317092, guid: 548c786a3741c074081aff20da1d64da, type: 3}
-  SpawnInterval: 10
+  SpawnInterval: 25
   currentTime: 0
-  decreaseInterval: 1
+  decreaseInterval: 0
   decreasePercentage: 0.1
   decreaseIntervalTime: 1
   decreaseIntervalTimer: 60
