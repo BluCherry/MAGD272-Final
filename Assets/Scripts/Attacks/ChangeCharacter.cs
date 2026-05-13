@@ -41,7 +41,6 @@ public class ChangeCharacter : MonoBehaviour
         if (choice == 0)
         {
             spirit.SetActive(false);
-            camera.Lens.Equals(2);
             spirit.GetComponent<PlayerInputController>().enabled = false;
             player.GetComponent<PlayerInputController>().enabled = true;
             player.GetComponent<PlayerAttackManager>().enabled = true;
@@ -49,7 +48,6 @@ public class ChangeCharacter : MonoBehaviour
         if (choice == 1)
         {
             spirit.SetActive(true);
-            camera.Lens.Equals(3);
             spirit.GetComponent<PlayerInputController>().enabled = true;
             player.GetComponent<PlayerInputController>().enabled = false;
             player.GetComponent<PlayerAttackManager>().enabled = false;
