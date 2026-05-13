@@ -115,7 +115,6 @@ GameObject:
   - component: {fileID: 2075928512243514095}
   - component: {fileID: 7349600849503963656}
   - component: {fileID: 7542429074220124681}
-  - component: {fileID: 5126929841084326043}
   - component: {fileID: 905451737083021775}
   - component: {fileID: 4380062792178138586}
   - component: {fileID: 1598114634270235083}
@@ -463,18 +462,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::activePlayer
   value: 0
---- !u!114 &5126929841084326043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9114412990421456807}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34167d0599eb2534d8921f224cade868, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!114 &905451737083021775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -513,9 +500,9 @@ MonoBehaviour:
   showKey: 0
   coinSound: {fileID: 0}
   ammoSound: {fileID: 0}
-  healthSound: {fileID: 0}
-  keySound: {fileID: 0}
-  soundVolume: 1
+  healthSound: {fileID: 8300000, guid: a9eeba6f846ee624cb8b4e7863e38b5e, type: 3}
+  keySound: {fileID: 8300000, guid: a9eeba6f846ee624cb8b4e7863e38b5e, type: 3}
+  soundVolume: 0.2
   playSound: 0
   goalSound: {fileID: 0}
   volume: 1
