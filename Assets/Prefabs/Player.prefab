@@ -119,6 +119,7 @@ GameObject:
   - component: {fileID: 905451737083021775}
   - component: {fileID: 4380062792178138586}
   - component: {fileID: 1598114634270235083}
+  - component: {fileID: 1981850897534414892}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -300,7 +301,7 @@ MonoBehaviour:
   immortal: 0
   sound: {fileID: 8300000, guid: 2f75ae89ee1a03548b3192fa97b2c7b7, type: 3}
   soundVolume: 0.2
-  healthUI: {fileID: 0}
+  healthUI: {fileID: 3954074359052580253, guid: c9f16918f2beebe4d97ebc51151efc07, type: 3}
   startsFullHealth: 1
 --- !u!114 &5360893316948265086
 MonoBehaviour:
@@ -543,6 +544,18 @@ MonoBehaviour:
   respawnTime: 0
   reloadScene: 1
   stopTime: 1
+--- !u!114 &1981850897534414892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9114412990421456807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cacae110d6c5ba4e98e5cf8434d6e41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1001 &4403703672635739697
 PrefabInstance:
   m_ObjectHideFlags: 0

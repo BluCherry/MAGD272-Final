@@ -260,7 +260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TargetChaser
   autoSetPlayer: 1
   target: {fileID: 0}
-  agroDistance: 3
+  agroDistance: 15
   stoppingDistance: 0.1
   minimumDistance: 0.05
 --- !u!114 &7537087810419331281
