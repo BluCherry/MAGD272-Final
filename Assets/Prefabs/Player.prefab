@@ -298,8 +298,8 @@ MonoBehaviour:
   immunityTime: 0.2
   immunityVisible: 1
   immortal: 0
-  sound: {fileID: 0}
-  soundVolume: 1
+  sound: {fileID: 8300000, guid: 2f75ae89ee1a03548b3192fa97b2c7b7, type: 3}
+  soundVolume: 0.2
   healthUI: {fileID: 0}
   startsFullHealth: 1
 --- !u!114 &5360893316948265086
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9114412990421456807}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6b74d330f9c122a4087776aab9384789, type: 3}
   m_Name: 
@@ -344,8 +344,8 @@ MonoBehaviour:
   jumpHeight: 1.75
   upGravityScale: 1
   downGravityScale: 2
-  jumpSound: {fileID: 0}
-  soundVolume: 1
+  jumpSound: {fileID: 8300000, guid: cb2a5e40e94ce824487b8dbd2081859d, type: 3}
+  soundVolume: 0.2
   numberOfJumps: 1
   secondaryJumpHeightMultiplier: 0.5
   leftDetectorPoint: {fileID: 4438564976495602021}

@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5780267989485329616}
   - component: {fileID: 7066441421878917152}
   - component: {fileID: 8216296330225048015}
-  - component: {fileID: -8955927727761143050}
   m_Layer: 11
   m_Name: Projectile
   m_TagString: Untagged
@@ -169,20 +168,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
---- !u!114 &-8955927727761143050
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7728412902767994620}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c5d029b6d07c460cbc0fa12e2f12a69, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  essenseSound: {fileID: 8300000, guid: 27d049b90c9304ce9ad342c06e427d2d, type: 3}
-  soundVolume: 0.2
-  repeatInterval: 0
-  randomizePitch: 0
-  pitchVariance: 0

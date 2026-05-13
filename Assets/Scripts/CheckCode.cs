@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class CheckCode : MonoBehaviour
 {
-    private string code = "hdk";
+    private string code = "exit";
     [Header("Enter Gate Object")]
     public GameObject gate;
     [Header("Enter Goal Object")]
