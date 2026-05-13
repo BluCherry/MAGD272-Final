@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.Cinemachine;
 using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using static System.Runtime.CompilerServices.RuntimeHelpers;
 
@@ -19,11 +21,13 @@ public class ChangeCharacter : MonoBehaviour
     private bool triggerEntered;
     private GameObject player;
     private GameObject spirit;
+    private CinemachineCamera camera;
 
     private bool start;
 
     public void ChooseCharacter(int choice)
     {
+        camera = GameObject.FindAnyObjectByType<CinemachineCamera>();
         active = choice;
 
         spirit.GetComponent<TrailRenderer>().Clear();
@@ -37,14 +41,18 @@ public class ChangeCharacter : MonoBehaviour
         if (choice == 0)
         {
             spirit.SetActive(false);
+            camera.Lens.Equals(2);
             spirit.GetComponent<PlayerInputController>().enabled = false;
             player.GetComponent<PlayerInputController>().enabled = true;
+            player.GetComponent<PlayerAttackManager>().enabled = true;
         }
         if (choice == 1)
         {
             spirit.SetActive(true);
+            camera.Lens.Equals(3);
             spirit.GetComponent<PlayerInputController>().enabled = true;
             player.GetComponent<PlayerInputController>().enabled = false;
+            player.GetComponent<PlayerAttackManager>().enabled = false;
         }
     }
 
@@ -72,6 +80,12 @@ public class ChangeCharacter : MonoBehaviour
             }
             player.SendMessage(nameof(activePlayer.updateValue));
         }
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        camera = GameObject.FindAnyObjectByType<CinemachineCamera>();
+        camera.Lens.Equals(2);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
